@@ -6,14 +6,21 @@
     GOC_Question2_2020.py
 ```
 
+##  Google’s Kick Start Coding Competitions
+```
+1.  Kick Start 2019 - Round A: Training
+    RoundA_Training_2019.py
+    https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01/00000000000698d6
+```
+
 ## Facebook Hacker Cup
 ```
 1.  Facebook Hacker Cup 2020 Round 1 Problem A1: Perimetric - Chapter 1
-    round1_qa1_2020.py
+    Round1_QuestionA1_2020.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/A1
 
 2.  Facebook Hacker Cup 2020 Round 1 Problem B: Dislodging Logs
-    round1_qb_2020.py
+    Round1_QuestionB_2020.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/B
 ```
 
