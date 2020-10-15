@@ -64,7 +64,7 @@ class Solution(object):
 
 
 test_list = ListNode(val=4, next=ListNode(val=2))
-test_val_list = []
+test_val_list = [-1,5,3,4,0]
 list_node_list = []
 for i in test_val_list:
     list_node_list.append(ListNode(val=i))
