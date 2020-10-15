@@ -26,11 +26,15 @@
 
 ## LeetCodeExercise:
 ```
-1.  Longest Substring Without Repeating Characters
+1.  Sort List (Difficulty: 4.5/5)
+    Sort_List.py
+    https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
+
+2.  Longest Substring Without Repeating Characters (Difficulty: Medium)
     Longest_Substring_Without_Repeating_Characters.py
     https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-2.  Unique Paths III
+2.  Unique Paths III (Difficulty: Hard)
     Unique_Paths_III.py
     https://leetcode.com/problems/unique-paths-iii/
 ```
