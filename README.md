@@ -34,9 +34,17 @@
     Longest_Substring_Without_Repeating_Characters.py
     https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-2.  Sort List
+3.  Sort List
     Sort_List.py
     https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
+
+4.  Repeated DNA Sequences
+    Repeated_DNA_Sequences.py
+    https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/
+
+5.  Median of Two Sorted Arrays
+    Median_of_Two_Sorted_Arrays.py
+    https://leetcode.com/problems/median-of-two-sorted-arrays/
 ```
 
 ## AtCoder Beginner Contest 175
