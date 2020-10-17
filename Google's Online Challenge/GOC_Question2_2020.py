@@ -1,3 +1,7 @@
+# in a list, there is only 1 and 0 in each list element which represents the ith location contain a balloon or not.
+# In every second, you can move the balloon to left or right.
+# Then, you need to return a list in which each ith element represents the time that moving all the balloons to ith location
+
 def find_footsteps_list(input_list):
     has_bal_list = []
     footstep_list = []
