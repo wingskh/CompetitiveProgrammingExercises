@@ -45,6 +45,14 @@
 5.  Median of Two Sorted Arrays
     Median_of_Two_Sorted_Arrays.py
     https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+6.  Break a Palindrome
+    Break_a_Palindrome.py
+    https://leetcode.com/problems/break-a-palindrome/
+
+7.  Longest Palindromic Substring
+    Longest_Palindromic_Substring.py
+    https://leetcode.com/problems/longest-palindromic-substring/
 ```
 
 ## AtCoder Beginner Contest 175
