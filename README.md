@@ -61,3 +61,10 @@
     PartC_Walking_Takahashi.py
     https://atcoder.jp/contests/abc175/tasks/abc175_c
 ```
+
+# Mock_Google_Interview_Questions
+```
+1.  Remove Islands
+    RemoveIslands.py
+    https://www.youtube.com/watch?v=4tYoVx0QoN0&t=426s&ab_channel=Cl%C3%A9mentMihailescu
+```
