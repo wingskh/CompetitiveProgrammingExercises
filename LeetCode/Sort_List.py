@@ -1,4 +1,4 @@
-# https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
+# https://leetcode.com/problems/sort-list/
 # For Checking Purpose
 def print_linked_list(head):
     sol_sorted_list = []
@@ -20,7 +20,7 @@ class ListNode(object):
 #         self.val = val
 #         self.next = next
 class Solution(object):
-    def sortList(self, head):
+    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         """
         :type head: ListNode
         :rtype: ListNode
@@ -60,26 +60,3 @@ class Solution(object):
             result = right_sorted_head
             result.next = self.merge_sort(left_sorted_head, right_sorted_head.next)
         return result
-
-
-
-test_list = ListNode(val=4, next=ListNode(val=2))
-test_val_list = [-1,5,3,4,0]
-list_node_list = []
-for i in test_val_list:
-    list_node_list.append(ListNode(val=i))
-
-test_head = None
-previous = None
-for node in list_node_list:
-    if test_head == None:
-        test_head = node
-        previous = test_head
-    else:
-        previous.next = node
-        previous = node
-
-print_linked_list(test_head)
-sol = Solution()
-sol_head = sol.sortList(test_head)
-print_linked_list(sol_head)

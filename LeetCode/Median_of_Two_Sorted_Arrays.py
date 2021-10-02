@@ -4,10 +4,10 @@ import bisect
 
 def find_median_from_list(nums1):
     if len(nums1) % 2 == 0:
-        half = int(len(nums1)/2)-1
-        return sum(nums1[half:half+2])/2, half+0.5
+        half = int(len(nums1) / 2) - 1
+        return sum(nums1[half : half + 2]) / 2, half + 0.5
     else:
-        num = int(len(nums1)/2)
+        num = int(len(nums1) / 2)
         return nums1[num], num
 
 
@@ -20,7 +20,7 @@ def handle_insertion(longer_list, shorter_list):
 
 
 class Solution(object):
-    def findMedianSortedArrays(self, nums1, nums2):
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         """
         :type nums1: List[int]
         :type nums2: List[int]

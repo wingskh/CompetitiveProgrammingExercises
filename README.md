@@ -36,11 +36,11 @@
 
 3.  Sort List
     Sort_List.py
-    https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/560/week-2-october-8th-october-14th/3493/
+    https://leetcode.com/problems/sort-list/
 
 4.  Repeated DNA Sequences
     Repeated_DNA_Sequences.py
-    https://leetcode.com/explore/challenge/card/october-leetcoding-challenge/561/week-3-october-15th-october-21st/3498/
+    https://leetcode.com/problems/repeated-dna-sequences/
 
 5.  Median of Two Sorted Arrays
     Median_of_Two_Sorted_Arrays.py
@@ -53,6 +53,38 @@
 7.  Longest Palindromic Substring
     Longest_Palindromic_Substring.py
     https://leetcode.com/problems/longest-palindromic-substring/
+
+8.  ZigZag Conversion
+    ZigZag_Conversion.py
+    https://leetcode.com/problems/zigzag-conversion/
+
+9.  3Sum
+    3Sum.py
+    https://leetcode.com/problems/3sum/
+
+10. 3Sum Closest
+    3Sum_Closest.py
+    https://leetcode.com/problems/3sum-closest/
+
+11. Letter Combinations of a Phone Number
+    Letter_Combinations_of_a_Phone_Number.py
+    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+12  Best Time to Buy and Sell Stock IV
+    Best_Time_to_Buy_and_Sell_Stock_IV.py
+    https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+13  Masking Personal Information
+    Masking_Personal_Information.py
+    https://leetcode.com/problems/masking-personal-information/
+
+14  Combination Sum
+    Combination_Sum.py
+    https://leetcode.com/problems/combination-sum/
+
+15  N-Queens
+    N-Queens.py
+    # https://leetcode.com/problems/n-queens/
 ```
 
 ## AtCoder Beginner Contest 175

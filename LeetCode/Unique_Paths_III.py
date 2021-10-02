@@ -8,7 +8,7 @@ class Solution(object):
         self.stack = []
         self.grid = None
 
-    def uniquePathsIII(self, grid):
+    def uniquePathsIII(self, grid: List[List[int]]) -> int:
         """
         :type self.grid: List[List[int]]
         :rtype: int
@@ -28,26 +28,26 @@ class Solution(object):
         return self.total_counter
 
     def find_num_of_path(self, start_coor):
-        top_coor = (start_coor[0]+1, start_coor[1])
+        top_coor = (start_coor[0] + 1, start_coor[1])
         if top_coor[0] < self.y_bound:
             self.goto_one_direction(top_coor)
 
-        bottom_coor = (start_coor[0]-1, start_coor[1])
+        bottom_coor = (start_coor[0] - 1, start_coor[1])
         if bottom_coor[0] >= 0:
             self.goto_one_direction(bottom_coor)
 
-        left_coor = (start_coor[0], start_coor[1]-1)
+        left_coor = (start_coor[0], start_coor[1] - 1)
         if left_coor[1] >= 0:
             self.goto_one_direction(left_coor)
 
-        right_coor = (start_coor[0], start_coor[1]+1)
+        right_coor = (start_coor[0], start_coor[1] + 1)
         if right_coor[1] < self.x_bound:
             self.goto_one_direction(right_coor)
 
         if len(self.stack) != 0:
             self.stack.pop()
 
-    def goto_one_direction(self,  new_coor):
+    def goto_one_direction(self, new_coor):
         if self.grid[new_coor[0]][new_coor[1]] == 2:
             if len(self.stack) == self.total_paths:
                 self.total_counter += 1
