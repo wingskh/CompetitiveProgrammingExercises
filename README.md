@@ -70,21 +70,25 @@
     Letter_Combinations_of_a_Phone_Number.py
     https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
-12  Best Time to Buy and Sell Stock IV
+12. Best Time to Buy and Sell Stock IV
     Best_Time_to_Buy_and_Sell_Stock_IV.py
     https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
-13  Masking Personal Information
+13. Masking Personal Information
     Masking_Personal_Information.py
     https://leetcode.com/problems/masking-personal-information/
 
-14  Combination Sum
+14. Combination Sum
     Combination_Sum.py
     https://leetcode.com/problems/combination-sum/
 
-15  N-Queens
+15. N-Queens
     N-Queens.py
-    # https://leetcode.com/problems/n-queens/
+    https://leetcode.com/problems/n-queens/
+
+16. Longest Increasing Subsequence
+    N-Longest_Increasing_Subsequence.py
+    https://leetcode.com/problems/longest-increasing-subsequence/
 ```
 
 ## AtCoder Beginner Contest 175
