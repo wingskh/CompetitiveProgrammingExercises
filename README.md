@@ -122,9 +122,13 @@
         Sort_List.py
         https://leetcode.com/problems/sort-list/
 
-25.     Distinct_Subsequences (Difficulty: Hard)
+25.     Distinct Subsequences (Difficulty: Hard)
         Sort_List.py
         https://leetcode.com/problems/sort-list/
+        
+26.     Minimum Window Subsequence (Difficulty: Hard)
+        Minimum_Window_Subsequence.py
+        https://leetcode.com/problems/minimum-window-subsequence/
 ```
 
 ## AtCoder Beginner Contest 175
