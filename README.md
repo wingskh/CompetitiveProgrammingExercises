@@ -133,6 +133,14 @@
 27.     Delete Operation for Two Strings (Difficulty: Medium)
         Delete_Operation_for_Two_Strings.py
         https://leetcode.com/problems/delete-operation-for-two-strings/
+
+27.     Palindrome Partitioning III (Difficulty: Hard)
+        Palindrome_Partitioning_III.py
+        https://leetcode.com/problems/palindrome-partitioning-iii/
+
+27.     Largest Sum of Averages (Difficulty: Medium)
+        Largest_Sum_of_Averages.py
+        https://leetcode.com/problems/largest-sum-of-averages/
 ```
 
 ## AtCoder Beginner Contest 175

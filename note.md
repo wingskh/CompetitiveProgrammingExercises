@@ -23,3 +23,13 @@ j: array2 operation
 ```
 inferred by dp[i][j - 1], dp[i - 1][j] and dp[i - 1][j-1]
 ```
+
+### Type 4: Ccontinuous Partition I
+dp[i][k]:
+```
+i: word[:j] / word[:j+1]
+k: k groups
+```
+```
+inferred by dp[l][j - 1] for l in range(i)
+```
