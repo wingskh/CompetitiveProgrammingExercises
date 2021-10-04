@@ -123,14 +123,14 @@
         https://leetcode.com/problems/sort-list/
 
 25.     Distinct Subsequences (Difficulty: Hard)
-        Sort_List.py
-        https://leetcode.com/problems/sort-list/
+        Distinct_Subsequences.py
+        https://leetcode.com/problems/distinct-subsequences/
         
 26.     Minimum Window Subsequence (Difficulty: Hard)
         Minimum_Window_Subsequence.py
         https://leetcode.com/problems/minimum-window-subsequence/
         
-27.     Delete Operation for Two Strings
+27.     Delete Operation for Two Strings (Difficulty: Medium)
         Delete_Operation_for_Two_Strings.py
         https://leetcode.com/problems/delete-operation-for-two-strings/
 ```
