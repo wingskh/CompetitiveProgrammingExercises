@@ -129,6 +129,10 @@
 26.     Minimum Window Subsequence (Difficulty: Hard)
         Minimum_Window_Subsequence.py
         https://leetcode.com/problems/minimum-window-subsequence/
+        
+27.     Delete Operation for Two Strings
+        Delete_Operation_for_Two_Strings.py
+        https://leetcode.com/problems/delete-operation-for-two-strings/
 ```
 
 ## AtCoder Beginner Contest 175
