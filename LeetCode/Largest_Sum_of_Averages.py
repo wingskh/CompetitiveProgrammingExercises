@@ -17,10 +17,10 @@ class Solution:
         score_matrix = [[None] * num_of_nums for _ in range(num_of_nums)]
 
         # Initial for the score_matrix
-        sum = 0
+        acc_sum = 0
         for i in range(num_of_nums):
-            sum += nums[i]
-            score_matrix[0][i] = sum / (i + 1)
+            acc_sum += nums[i]
+            score_matrix[0][i] = acc_sum / (i + 1)
 
         # Initial for the dp
         dp = [[cal_score(0, 0)] + [-1] * (k - 1)] + [
