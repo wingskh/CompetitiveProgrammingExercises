@@ -26,121 +26,133 @@
 
 ## LeetCodeExercise:
 ```
-1.      Palindrome Linked List (Difficulty: Easy)
-        Palindrome_Linked_List.java
-        https://leetcode.com/problems/palindrome-linked-list/
-
-2.      Rotate String (Difficulty: Easy)
-        Rotate_String.java
-        https://leetcode.com/problems/rotate-string/
-
-3.      Non-decreasing Array (Difficulty: Medium)
-        Non-decreasing_Array.java
-        https://leetcode.com/problems/non-decreasing-array/
-
-4.      Repeated DNA Sequences (Difficulty: Medium)
-        Repeated_DNA_Sequences.py
-        https://leetcode.com/problems/repeated-dna-sequences/
-
-5.      Median of Two Sorted Arrays (Difficulty: Hard)
-        Median_of_Two_Sorted_Arrays.py
-        https://leetcode.com/problems/median-of-two-sorted-arrays/
-
-6.      Break a Palindrome (Difficulty: Medium)
-        Break_a_Palindrome.py
-        https://leetcode.com/problems/break-a-palindrome/
-
-7.      Longest Palindromic Substring (Difficulty: Medium)
-        Longest_Palindromic_Substring.py
-        https://leetcode.com/problems/longest-palindromic-substring/
-
-8.      ZigZag Conversion (Difficulty: Medium)
-        ZigZag_Conversion.py
-        https://leetcode.com/problems/zigzag-conversion/
-
-9.      3Sum (Difficulty: Medium)
-        3Sum.py
-        https://leetcode.com/problems/3sum/
-
-10.     3Sum Closest (Difficulty: Medium)
-        3Sum_Closest.py
-        https://leetcode.com/problems/3sum-closest/
-
-11.     Letter Combinations of a Phone Number (Difficulty: Medium)
-        Letter_Combinations_of_a_Phone_Number.py
-        https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-
-12.     Best Time to Buy and Sell Stock IV (Difficulty: Hard)
-        Best_Time_to_Buy_and_Sell_Stock_IV.py
-        https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
-
-13.     Masking Personal Information (Difficulty: Medium)
-        Masking_Personal_Information.py
-        https://leetcode.com/problems/masking-personal-information/
-
-14.     Combination Sum (Difficulty: Medium)
-        Combination_Sum.py
-        https://leetcode.com/problems/combination-sum/
-
-15.     N-Queens (Difficulty: Hard)
-        N-Queens.py
-        https://leetcode.com/problems/n-queens/
-
-16.     Longest Increasing Subsequence (Difficulty: Medium)
-        Longest_Increasing_Subsequence.py
-        https://leetcode.com/problems/longest-increasing-subsequence/
-
-17.     Filling Bookcase Shelves (Difficulty: Medium)
-        Filling_Bookcase_Shelves.py
-        https://leetcode.com/problems/filling-bookcase-shelves/
-
-18.     Longest Common Subsequence (Difficulty: Medium)
-        Longest_Common_Subsequence.py
-        https://leetcode.com/problems/longest-common-subsequence/
-
-19.     Shortest Common Supersequence (Difficulty: Hard)
-        Shortest_Common_Supersequence.py
-        https://leetcode.com/problems/shortest-common-supersequence/
-
-20.     Edit Distance (Difficulty: Hard)
-        Edit_Distance.py
-        https://leetcode.com/problems/edit-distance/
-
-21.     Interleaving String (Difficulty: Medium)
-        Interleaving_String.py
-        https://leetcode.com/problems/interleaving-string/
-
-22.     Unique Paths III (Difficulty: Hard)
-        Unique_Paths_III.py
-        https://leetcode.com/problems/unique-paths-iii/
-
-23.     Longest Substring Without Repeating Characters (Difficulty: Medium)
+3.      Longest Substring Without Repeating Characters (Difficulty: Medium)
         Longest_Substring_Without_Repeating_Characters.py
         https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
-24.     Sort List (Difficulty: Medium)
+4.      Median of Two Sorted Arrays (Difficulty: Hard)
+        Median_of_Two_Sorted_Arrays.py
+        https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+5.      Longest Palindromic Substring (Difficulty: Medium)
+        Longest_Palindromic_Substring.py
+        https://leetcode.com/problems/longest-palindromic-substring/
+
+6.      ZigZag Conversion (Difficulty: Medium)
+        ZigZag_Conversion.py
+        https://leetcode.com/problems/zigzag-conversion/
+
+15.      3Sum (Difficulty: Medium)
+        3Sum.py
+        https://leetcode.com/problems/3sum/
+
+16.     3Sum Closest (Difficulty: Medium)
+        3Sum_Closest.py
+        https://leetcode.com/problems/3sum-closest/
+
+17.     Letter Combinations of a Phone Number (Difficulty: Medium)
+        Letter_Combinations_of_a_Phone_Number.py
+        https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+39.     Combination Sum (Difficulty: Medium)
+        Combination_Sum.py
+        https://leetcode.com/problems/combination-sum/
+
+51.     N-Queens (Difficulty: Hard)
+        N-Queens.py
+        https://leetcode.com/problems/n-queens/
+
+72.     Edit Distance (Difficulty: Hard)
+        Edit_Distance.py
+        https://leetcode.com/problems/edit-distance/
+
+97.     Interleaving String (Difficulty: Medium)
+        Interleaving_String.py
+        https://leetcode.com/problems/interleaving-string/
+
+115.    Distinct Subsequences (Difficulty: Hard)
+        Distinct_Subsequences.py
+        https://leetcode.com/problems/distinct-subsequences/
+
+148.    Sort List (Difficulty: Medium)
         Sort_List.py
         https://leetcode.com/problems/sort-list/
 
-25.     Distinct Subsequences (Difficulty: Hard)
-        Distinct_Subsequences.py
-        https://leetcode.com/problems/distinct-subsequences/
-        
-26.     Minimum Window Subsequence (Difficulty: Hard)
-        Minimum_Window_Subsequence.py
-        https://leetcode.com/problems/minimum-window-subsequence/
-        
-27.     Delete Operation for Two Strings (Difficulty: Medium)
+187.    Repeated DNA Sequences (Difficulty: Medium)
+        Repeated_DNA_Sequences.py
+        https://leetcode.com/problems/repeated-dna-sequences/
+
+188.    Best Time to Buy and Sell Stock IV (Difficulty: Hard)
+        Best_Time_to_Buy_and_Sell_Stock_IV.py
+        https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+234.    Palindrome Linked List (Difficulty: Easy)
+        Palindrome_Linked_List.java
+        https://leetcode.com/problems/palindrome-linked-list/
+
+300.    Longest Increasing Subsequence (Difficulty: Medium)
+        Longest_Increasing_Subsequence.py
+        https://leetcode.com/problems/longest-increasing-subsequence/
+
+410.    Split Array Largest Sum (Difficulty: Hard)
+        Split_Array_Largest_Sum.java
+        https://leetcode.com/problems/split-array-largest-sum/
+
+516.    Longest Palindromic Subsequence (Difficulty: Medium)
+        Longest_Palindromic_Subsequence.py
+        https://leetcode.com/problems/longest-palindromic-subsequence/
+
+583.    Delete Operation for Two Strings (Difficulty: Medium)
         Delete_Operation_for_Two_Strings.py
         https://leetcode.com/problems/delete-operation-for-two-strings/
 
-27.     Palindrome Partitioning III (Difficulty: Hard)
+665.    Non-decreasing Array (Difficulty: Medium)
+        Non-decreasing_Array.java
+        https://leetcode.com/problems/non-decreasing-array/
+
+727.    Minimum Window Subsequence (Difficulty: Hard)
+        Minimum_Window_Subsequence.py
+        https://leetcode.com/problems/minimum-window-subsequence/
+
+796.    Rotate String (Difficulty: Easy)
+        Rotate_String.java
+        https://leetcode.com/problems/rotate-string/
+
+813.    Largest Sum of Averages (Difficulty: Medium)
+        Largest_Sum_of_Averages.py
+        https://leetcode.com/problems/largest-sum-of-averages/
+
+831.    Masking Personal Information (Difficulty: Medium)
+        Masking_Personal_Information.py
+        https://leetcode.com/problems/masking-personal-information/
+
+980.    Unique Paths III (Difficulty: Hard)
+        Unique_Paths_III.py
+        https://leetcode.com/problems/unique-paths-iii/
+
+1092.   Shortest Common Supersequence (Difficulty: Hard)
+        Shortest_Common_Supersequence.py
+        https://leetcode.com/problems/shortest-common-supersequence/
+
+1105.   Filling Bookcase Shelves (Difficulty: Medium)
+        Filling_Bookcase_Shelves.py
+        https://leetcode.com/problems/filling-bookcase-shelves/
+
+1143.   Longest Common Subsequence (Difficulty: Medium)
+        Longest_Common_Subsequence.py
+        https://leetcode.com/problems/longest-common-subsequence/
+
+1278.   Palindrome Partitioning III (Difficulty: Hard)
         Palindrome_Partitioning_III.py
         https://leetcode.com/problems/palindrome-partitioning-iii/
 
-27.     Largest Sum of Averages (Difficulty: Medium)
-        Largest_Sum_of_Averages.py
-        https://leetcode.com/problems/largest-sum-of-averages/
+1328.   Break a Palindrome (Difficulty: Medium)
+        Break_a_Palindrome.py
+        https://leetcode.com/problems/break-a-palindrome/
+
+1335.   Minimum Difficulty of a Job Schedule (Difficulty: Hard)
+        Minimum_Difficulty_of_a_Job_Schedule.py
+        https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 ```
 
 ## AtCoder Beginner Contest 175

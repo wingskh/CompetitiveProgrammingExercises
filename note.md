@@ -24,7 +24,7 @@ j: array2 operation
 inferred by dp[i][j - 1], dp[i - 1][j] and dp[i - 1][j-1]
 ```
 
-### Type 4: Ccontinuous Partition I
+### Type 4: Continuous Partition
 dp[i][k]:
 ```
 i: word[:j] / word[:j+1]
@@ -32,4 +32,15 @@ k: k groups
 ```
 ```
 inferred by dp[l][j - 1] for l in range(i)
+```
+
+### Type 4: Partition without dependency
+dp[i][j]:
+```
+i: start index for string s
+j: end index for string s
+```
+```
+CANNOT inferred dp[i] by dp[j] where j < i
+inferr dp[0][-1] from the smallest parts first
 ```

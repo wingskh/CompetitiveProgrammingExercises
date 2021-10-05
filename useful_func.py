@@ -6,9 +6,9 @@
 
 def display_matrix(matrix, word1, word2):
     if isinstance(word1, list):
-        word1 = "".join(list(map(chr, word1)))
+        word1 = list(map(str, word1))
     if isinstance(word2, list):
-        word2 = "".join(list(map(chr, word2)))
+        word2 = list(map(str, word2))
     matrix_height = len(matrix)
     matrix_width = len(matrix[0])
     word1_length = len(word1)
