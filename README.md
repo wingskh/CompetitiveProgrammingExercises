@@ -42,7 +42,7 @@
         ZigZag_Conversion.py
         https://leetcode.com/problems/zigzag-conversion/
 
-15.      3Sum (Difficulty: Medium)
+15.     3Sum (Difficulty: Medium)
         3Sum.py
         https://leetcode.com/problems/3sum/
 
@@ -94,13 +94,33 @@
         Longest_Increasing_Subsequence.py
         https://leetcode.com/problems/longest-increasing-subsequence/
 
+312.    Burst Balloons (Difficulty: hard)
+        Burst_Balloons.py
+        https://leetcode.com/problems/burst-balloons/
+
+375.    Guess Number Higher or Lower II (Difficulty: Medium)
+        Guess_Number_Higher_or_Lower_II.py
+        https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+
 410.    Split Array Largest Sum (Difficulty: Hard)
         Split_Array_Largest_Sum.java
         https://leetcode.com/problems/split-array-largest-sum/
 
+474.    Ones and Zeroes (Difficulty: Medium)
+        Ones_and_Zeroes.py
+        https://leetcode.com/problems/ones-and-zeroes/
+
+494.    Target Sum (Difficulty: Medium)
+        Target_Sum.py
+        https://leetcode.com/problems/target-sum/
+
 516.    Longest Palindromic Subsequence (Difficulty: Medium)
         Longest_Palindromic_Subsequence.py
         https://leetcode.com/problems/longest-palindromic-subsequence/
+
+532.    K-diff Pairs in an Array (Difficulty: Medium)
+        K-diff_Pairs_in_an_Array.py
+        https://leetcode.com/problems/k-diff-pairs-in-an-array/
 
 583.    Delete Operation for Two Strings (Difficulty: Medium)
         Delete_Operation_for_Two_Strings.py
@@ -129,6 +149,10 @@
 980.    Unique Paths III (Difficulty: Hard)
         Unique_Paths_III.py
         https://leetcode.com/problems/unique-paths-iii/
+
+1049.   Last Stone Weight II (Difficulty: Medium)
+        Last_Stone_Weight_II.py
+        https://leetcode.com/problems/last-stone-weight-ii/
 
 1092.   Shortest Common Supersequence (Difficulty: Hard)
         Shortest_Common_Supersequence.py
