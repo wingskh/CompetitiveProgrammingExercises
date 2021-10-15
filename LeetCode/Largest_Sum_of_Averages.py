@@ -35,4 +35,11 @@ class Solution:
                 for l in range(i):
                     dp[i][j] = max(dp[l][j - 1] + cal_score(l + 1, i), dp[i][j])
 
+        print(dp)
         return dp[-1][-1]
+
+
+nums = [9, 1, 2, 3, 9]
+k = 3
+sol = Solution()
+print(sol.largestSumOfAverages(nums, k))

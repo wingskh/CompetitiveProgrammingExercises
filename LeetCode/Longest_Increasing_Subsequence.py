@@ -8,3 +8,8 @@ class Solution:
                 if nums[j] < nums[i]:
                     dp[i] = max(dp[i], dp[j] + 1)
         return max(dp) + 1
+
+
+nums = [10, 9, 2, 5, 3, 7, 101, 18]
+sol = Solution()
+print(sol.lengthOfLIS(nums))

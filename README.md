@@ -146,6 +146,14 @@
         Masking_Personal_Information.py
         https://leetcode.com/problems/masking-personal-information/
 
+879.    Profitable Schemes (Difficulty: Hard)
+        Profitable_Schemes.py
+        https://leetcode.com/problems/profitable-schemes/
+
+956.    Tallest Billboard (Difficulty: Hard)
+        Tallest_Billboard.py
+        https://leetcode.com/problems/tallest-billboard/
+
 980.    Unique Paths III (Difficulty: Hard)
         Unique_Paths_III.py
         https://leetcode.com/problems/unique-paths-iii/
@@ -181,14 +189,30 @@
 
 ## AtCoder Beginner Contest 175
 ```
-1.  C: Walking Takahashi
-    PartC_Walking_Takahashi.py
-    https://atcoder.jp/contests/abc175/tasks/abc175_c
+1.      C: Walking Takahashi
+        PartC_Walking_Takahashi.py
+        https://atcoder.jp/contests/abc175/tasks/abc175_c
 ```
 
 # Mock_Google_Interview_Questions
 ```
-1.  Remove Islands
-    RemoveIslands.py
-    https://www.youtube.com/watch?v=4tYoVx0QoN0&t=426s&ab_channel=Cl%C3%A9mentMihailescu
+1.      Remove Islands
+        RemoveIslands.py
+        https://www.youtube.com/watch?v=4tYoVx0QoN0&t=426s&ab_channel=Cl%C3%A9mentMihailescu
+
+2.      Find Suitable Apartment
+        FindSuitableApartment.py
+        https://www.youtube.com/watch?v=rw4s4M3hFfs&t=406s
+
+3.      Relation Question
+        RelationQuestion.py
+        https://www.youtube.com/watch?v=V0xjK_6ZoEY&t=612s&ab_channel=KeepOnCoding
+
+4.      StringPermutation
+        StringPermutation.py
+        https://www.youtube.com/watch?v=JHzX-57dgn0&ab_channel=KeertiPurswani
+
+5.      Reverse Linked List
+        ReverseLinkedList.py
+        https://www.youtube.com/watch?v=vHKzIPwWQkg&t=150s&ab_channel=Cl%C3%A9mentMihailescu
 ```

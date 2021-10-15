@@ -29,3 +29,9 @@ class Solution:
 
         result = str1[:i] + str2[:j] + result
         return result
+
+
+str1 = "abac"
+str2 = "cab"
+sol = Solution()
+print(sol.shortestCommonSupersequence(str1, str2))

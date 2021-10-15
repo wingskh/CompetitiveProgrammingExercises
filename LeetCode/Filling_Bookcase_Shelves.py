@@ -24,3 +24,9 @@ class Solution:
                 else:
                     break
         return optimal_height[-1]
+
+
+books = [[1, 1], [2, 3], [2, 3], [1, 1], [1, 1], [1, 1], [1, 2]]
+shelf_width = 4
+sol = Solution()
+print(sol.minHeightShelves(books, shelf_width))

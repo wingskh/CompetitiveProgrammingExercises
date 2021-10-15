@@ -17,3 +17,9 @@ class Solution:
                         max_length_dp[i][j - 1],
                     )
         return max_length_dp[-1][-1]
+
+
+text1 = "abcde"
+text2 = "ace"
+sol = Solution()
+print(sol.longestCommonSubsequence(text1, text2))
