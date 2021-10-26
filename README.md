@@ -98,6 +98,10 @@
         Burst_Balloons.py
         https://leetcode.com/problems/burst-balloons/
 
+322.    Coin Change
+        Coin_Change.py
+        https://leetcode.com/problems/coin-change/
+
 375.    Guess Number Higher or Lower II (Difficulty: Medium)
         Guess_Number_Higher_or_Lower_II.py
         https://leetcode.com/problems/guess-number-higher-or-lower-ii/
@@ -105,6 +109,10 @@
 410.    Split Array Largest Sum (Difficulty: Hard)
         Split_Array_Largest_Sum.java
         https://leetcode.com/problems/split-array-largest-sum/
+
+416.    Partition Equal Subset Sum (Difficulty: Medium)
+        Partition_Equal_Subset_Sum.py
+        https://leetcode.com/problems/partition-equal-subset-sum/
 
 474.    Ones and Zeroes (Difficulty: Medium)
         Ones_and_Zeroes.py
@@ -129,6 +137,10 @@
 665.    Non-decreasing Array (Difficulty: Medium)
         Non-decreasing_Array.java
         https://leetcode.com/problems/non-decreasing-array/
+
+718.    Maximum Length of Repeated Subarray
+        Maximum_Length_of_Repeated_Subarray.py
+        https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 
 727.    Minimum Window Subsequence (Difficulty: Hard)
         Minimum_Window_Subsequence.py
