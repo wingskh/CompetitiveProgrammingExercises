@@ -4,6 +4,9 @@
 ```
 1.  GOCC19: Google's Online Challenge - Coding - Intern (SEA) Question 2
     GOC_Question2_2020.py
+
+2.  Mock Interview 10-2021
+    Mock_Interview_202110.py
 ```
 
 ##  Google’s Kick Start Coding Competitions
@@ -74,6 +77,14 @@
         Distinct_Subsequences.py
         https://leetcode.com/problems/distinct-subsequences/
 
+114.    Flatten Binary Tree to Linked List (Difficulty: Medium)
+        Flatten_Binary_Tree_to_Linked_List.py
+        https://leetcode.com/problems/filling-bookcase-shelves/
+
+133.    Clone Graph (Difficulty: Medium)
+        Clone_Graph.py
+        https://leetcode.com/problems/clone-graph/
+        
 148.    Sort List (Difficulty: Medium)
         Sort_List.py
         https://leetcode.com/problems/sort-list/
@@ -85,6 +96,14 @@
 188.    Best Time to Buy and Sell Stock IV (Difficulty: Hard)
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+236.    Lowest Common Ancestor of a Binary Tree (Difficulty: Medium)
+        Lowest_Common_Ancestor_of_a_Binary_Tree.py
+        https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+240.    Search a 2D Matrix II (Difficulty: Medium)
+        Search_a_2D_Matrix_II.py
+        https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 234.    Palindrome Linked List (Difficulty: Easy)
         Palindrome_Linked_List.java
@@ -98,7 +117,7 @@
         Burst_Balloons.py
         https://leetcode.com/problems/burst-balloons/
 
-322.    Coin Change
+322.    Coin Change (Difficulty: Medium)
         Coin_Change.py
         https://leetcode.com/problems/coin-change/
 
@@ -134,11 +153,15 @@
         Delete_Operation_for_Two_Strings.py
         https://leetcode.com/problems/delete-operation-for-two-strings/
 
+646.    Maximum Length of Pair Chain (Difficulty: Medium)
+        Maximum_Length_of_Pair_Chain.py
+        https://leetcode.com/problems/maximum-length-of-pair-chain/
+
 665.    Non-decreasing Array (Difficulty: Medium)
         Non-decreasing_Array.java
         https://leetcode.com/problems/non-decreasing-array/
 
-718.    Maximum Length of Repeated Subarray
+718.    Maximum Length of Repeated Subarray (Difficulty: Medium)
         Maximum_Length_of_Repeated_Subarray.py
         https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 

@@ -3,7 +3,11 @@
 # sys.path.append("..")
 # from useful_func import *
 
-
+def display_matrix(matrix):
+    import numpy as np
+    a = np.array(matrix)
+    print(a)
+    
 def display_matrix(matrix, word1, word2):
     if isinstance(word1, list):
         word1 = list(map(str, word1))
