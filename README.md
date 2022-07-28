@@ -86,6 +86,10 @@
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
+242.    Valid Anagram (Difficulty: Easy)
+        Valid_Anagram.py
+        https://leetcode.com/problems/valid-anagram/
+
 234.    Palindrome Linked List (Difficulty: Easy)
         Palindrome_Linked_List.java
         https://leetcode.com/problems/palindrome-linked-list/
