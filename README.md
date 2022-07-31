@@ -104,6 +104,9 @@
 240.    Search a 2D Matrix II (Difficulty: Medium)
         Search_a_2D_Matrix_II.py
         https://leetcode.com/problems/search-a-2d-matrix-ii/
+242.    Valid Anagram (Difficulty: Easy)
+        Valid_Anagram.py
+        https://leetcode.com/problems/valid-anagram/
 
 234.    Palindrome Linked List (Difficulty: Easy)
         Palindrome_Linked_List.java
