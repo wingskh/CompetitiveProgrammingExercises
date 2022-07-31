@@ -185,6 +185,10 @@
         Profitable_Schemes.py
         https://leetcode.com/problems/profitable-schemes/
 
+916.    Word Subsets (Difficulty: Medium)
+        Word_Subsets.py
+        https://leetcode.com/problems/word-subsets/
+
 956.    Tallest Billboard (Difficulty: Hard)
         Tallest_Billboard.py
         https://leetcode.com/problems/tallest-billboard/
