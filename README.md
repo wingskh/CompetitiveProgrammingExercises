@@ -128,6 +128,10 @@
         Guess_Number_Higher_or_Lower_II.py
         https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 
+378.    Kth Smallest Element in a Sorted Matrix (Difficulty: Medium)
+        Kth_Smallest_Element_in_a_Sorted_Matrix.py
+        https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+
 410.    Split Array Largest Sum (Difficulty: Hard)
         Split_Array_Largest_Sum.java
         https://leetcode.com/problems/split-array-largest-sum/
