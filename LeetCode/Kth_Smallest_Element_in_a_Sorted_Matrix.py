@@ -7,13 +7,13 @@ class Solution:
         max_value = matrix[-1][-1]
 
         while min_value < max_value:
-            mid_value = min_value + (max_value - min_value) / 2
+            mid_value = min_value + int(max_value - min_value) / 2
             if self.countSmallerThanMid(matrix, mid_value, num_of_rows) < k:
                 min_value = mid_value + 1
             else:
                 max_value = mid_value
-                
-        return int(min_value)
+
+        return min_value
     
     
     def countSmallerThanMid(self, matrix, mid_value, num_of_rows):
