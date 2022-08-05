@@ -1,6 +1,7 @@
 # Algorithm Exercises
 
 ## Google’s Online Challenge
+
 ```
 1.  GOCC19: Google's Online Challenge - Coding - Intern (SEA) Question 2
     GOC_Question2_2020.py
@@ -9,7 +10,8 @@
     Mock_Interview_202110.py
 ```
 
-##  Google’s Kick Start Coding Competitions
+## Google’s Kick Start Coding Competitions
+
 ```
 1.  Kick Start 2019 - Round A: Training
     RoundA_Training_2019.py
@@ -17,6 +19,7 @@
 ```
 
 ## Facebook Hacker Cup
+
 ```
 1.  Facebook Hacker Cup 2020 Round 1 Problem A1: Perimetric - Chapter 1
     Round1_QuestionA1_2020.py
@@ -28,6 +31,7 @@
 ```
 
 ## LeetCodeExercise:
+
 ```
 3.      Longest Substring Without Repeating Characters (Difficulty: Medium)
         Longest_Substring_Without_Repeating_Characters.py
@@ -65,6 +69,10 @@
         N-Queens.py
         https://leetcode.com/problems/n-queens/
 
+62.     Unique Paths (Difficulty: Medium)
+        Unique_Paths.py
+        https://leetcode.com/problems/unique-paths/
+
 72.     Edit Distance (Difficulty: Hard)
         Edit_Distance.py
         https://leetcode.com/problems/edit-distance/
@@ -84,7 +92,7 @@
 133.    Clone Graph (Difficulty: Medium)
         Clone_Graph.py
         https://leetcode.com/problems/clone-graph/
-        
+
 148.    Sort List (Difficulty: Medium)
         Sort_List.py
         https://leetcode.com/problems/sort-list/
@@ -104,6 +112,7 @@
 240.    Search a 2D Matrix II (Difficulty: Medium)
         Search_a_2D_Matrix_II.py
         https://leetcode.com/problems/search-a-2d-matrix-ii/
+
 242.    Valid Anagram (Difficulty: Easy)
         Valid_Anagram.py
         https://leetcode.com/problems/valid-anagram/
@@ -127,6 +136,10 @@
 375.    Guess Number Higher or Lower II (Difficulty: Medium)
         Guess_Number_Higher_or_Lower_II.py
         https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+
+377.    Combination Sum IV (Difficulty: Medium)
+        Combination_Sum_IV.py
+        https://leetcode.com/problems/combination-sum-iv/
 
 378.    Kth Smallest Element in a Sorted Matrix (Difficulty: Medium)
         Kth_Smallest_Element_in_a_Sorted_Matrix.py
@@ -176,6 +189,10 @@
         Minimum_Window_Subsequence.py
         https://leetcode.com/problems/minimum-window-subsequence/
 
+729.    My Calendar I (Difficulty: Medium)
+        My_Calendar_I.py
+        https://leetcode.com/problems/my-calendar-i/
+
 796.    Rotate String (Difficulty: Easy)
         Rotate_String.java
         https://leetcode.com/problems/rotate-string/
@@ -187,6 +204,10 @@
 831.    Masking Personal Information (Difficulty: Medium)
         Masking_Personal_Information.py
         https://leetcode.com/problems/masking-personal-information/
+
+858.    Mirror Reflection
+        Mirror_Reflection.py
+        https://leetcode.com/problems/mirror-reflection/
 
 879.    Profitable Schemes (Difficulty: Hard)
         Profitable_Schemes.py
@@ -234,6 +255,7 @@
 ```
 
 ## AtCoder Beginner Contest 175
+
 ```
 1.      C: Walking Takahashi
         PartC_Walking_Takahashi.py
@@ -241,6 +263,7 @@
 ```
 
 # Mock_Google_Interview_Questions
+
 ```
 1.      Remove Islands
         RemoveIslands.py
