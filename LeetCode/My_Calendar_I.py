@@ -3,11 +3,14 @@
 import collections
 
 class MyCalendar:
+import collections
+
+class MyCalendar:
     def __init__(self):
         self.calendar = []
 		# Use Linked List instead, much more faster
-		# self.calender = collections.deque(
-            
+		# self.calender = collections.deque()
+
     def book(self, start: int, end: int) -> bool:
         right = len(self.calendar)
         if right == 0:
@@ -22,20 +25,11 @@ class MyCalendar:
             else:
                 right = mid
 
-        if left == 0:
-            if self.calendar[left][0] >= end:
-                self.calendar.insert(0, (start, end))
-                return True
-            else:
-                return False
-        elif left == len(self.calendar):
-            if self.calendar[left - 1][0] <= start:
-                self.calendar.append((start, end))
-                return True
-            else:
-                return False
+        if left == len(self.calendar):
+            self.calendar.append((start, end))
+            return True
                 
-        if left - 1 >= 0 and self.calendar[left - 1][1] <= start and self.calendar[left][0] >= end:
+        if self.calendar[left][0] >= end:
             self.calendar.insert(left, (start, end))
             return True
             
