@@ -65,6 +65,8 @@
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
 
+49.     Group Anagrams (Difficulty: Medium)
+
 51.     N-Queens (Difficulty: Hard)
         N-Queens.py
         https://leetcode.com/problems/n-queens/
@@ -104,6 +106,10 @@
 188.    Best Time to Buy and Sell Stock IV (Difficulty: Hard)
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+217.    Contains Duplicate (Difficulty: Easy)
+        Contains_Duplicate.py
+        https://leetcode.com/problems/contains-duplicate/
 
 236.    Lowest Common Ancestor of a Binary Tree (Difficulty: Medium)
         Lowest_Common_Ancestor_of_a_Binary_Tree.py
