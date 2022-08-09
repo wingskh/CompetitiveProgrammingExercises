@@ -1,6 +1,7 @@
 # Algorithm Exercises
 
 ## Google’s Online Challenge
+
 ```
 1.  GOCC19: Google's Online Challenge - Coding - Intern (SEA) Question 2
     GOC_Question2_2020.py
@@ -9,7 +10,8 @@
     Mock_Interview_202110.py
 ```
 
-##  Google’s Kick Start Coding Competitions
+## Google’s Kick Start Coding Competitions
+
 ```
 1.  Kick Start 2019 - Round A: Training
     RoundA_Training_2019.py
@@ -17,6 +19,7 @@
 ```
 
 ## Facebook Hacker Cup
+
 ```
 1.  Facebook Hacker Cup 2020 Round 1 Problem A1: Perimetric - Chapter 1
     Round1_QuestionA1_2020.py
@@ -28,6 +31,7 @@
 ```
 
 ## LeetCodeExercise:
+
 ```
 3.      Longest Substring Without Repeating Characters (Difficulty: Medium)
         Longest_Substring_Without_Repeating_Characters.py
@@ -65,6 +69,8 @@
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
 
+49.     Group Anagrams (Difficulty: Medium)
+
 51.     N-Queens (Difficulty: Hard)
         N-Queens.py
         https://leetcode.com/problems/n-queens/
@@ -92,7 +98,7 @@
 133.    Clone Graph (Difficulty: Medium)
         Clone_Graph.py
         https://leetcode.com/problems/clone-graph/
-        
+
 148.    Sort List (Difficulty: Medium)
         Sort_List.py
         https://leetcode.com/problems/sort-list/
@@ -105,6 +111,10 @@
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
+217.    Contains Duplicate (Difficulty: Easy)
+        Contains_Duplicate.py
+        https://leetcode.com/problems/contains-duplicate/
+
 236.    Lowest Common Ancestor of a Binary Tree (Difficulty: Medium)
         Lowest_Common_Ancestor_of_a_Binary_Tree.py
         https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
@@ -112,6 +122,7 @@
 240.    Search a 2D Matrix II (Difficulty: Medium)
         Search_a_2D_Matrix_II.py
         https://leetcode.com/problems/search-a-2d-matrix-ii/
+
 242.    Valid Anagram (Difficulty: Easy)
         Valid_Anagram.py
         https://leetcode.com/problems/valid-anagram/
@@ -135,6 +146,10 @@
 375.    Guess Number Higher or Lower II (Difficulty: Medium)
         Guess_Number_Higher_or_Lower_II.py
         https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+
+377.    Combination Sum IV (Difficulty: Medium)
+        Combination_Sum_IV.py
+        https://leetcode.com/problems/combination-sum-iv/
 
 378.    Kth Smallest Element in a Sorted Matrix (Difficulty: Medium)
         Kth_Smallest_Element_in_a_Sorted_Matrix.py
@@ -208,6 +223,10 @@
         Masking_Personal_Information.py
         https://leetcode.com/problems/masking-personal-information/
 
+858.    Mirror Reflection
+        Mirror_Reflection.py
+        https://leetcode.com/problems/mirror-reflection/
+
 879.    Profitable Schemes (Difficulty: Hard)
         Profitable_Schemes.py
         https://leetcode.com/problems/profitable-schemes/
@@ -266,6 +285,7 @@
 ```
 
 ## AtCoder Beginner Contest 175
+
 ```
 1.      C: Walking Takahashi
         PartC_Walking_Takahashi.py
@@ -273,6 +293,7 @@
 ```
 
 # Mock_Google_Interview_Questions
+
 ```
 1.      Remove Islands
         RemoveIslands.py
