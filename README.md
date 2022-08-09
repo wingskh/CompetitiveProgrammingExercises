@@ -57,6 +57,10 @@
         Letter_Combinations_of_a_Phone_Number.py
         https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
+33.     Search in Rotated Sorted Array (Difficulty: Medium)
+        Search_in_Rotated_Sorted_Array.py
+        https://leetcode.com/problems/search-in-rotated-sorted-array/
+        
 39.     Combination Sum (Difficulty: Medium)
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
@@ -65,6 +69,10 @@
         N-Queens.py
         https://leetcode.com/problems/n-queens/
 
+62.     Unique Paths (Difficulty: Medium)
+        Unique_Paths.py
+        https://leetcode.com/problems/unique-paths/
+        
 72.     Edit Distance (Difficulty: Hard)
         Edit_Distance.py
         https://leetcode.com/problems/edit-distance/
@@ -140,6 +148,10 @@
         Partition_Equal_Subset_Sum.py
         https://leetcode.com/problems/partition-equal-subset-sum/
 
+458.    Poor Pigs (Difficulty: Hard)
+        Poor_Pigs.py
+        https://leetcode.com/problems/poor-pigs/
+
 474.    Ones and Zeroes (Difficulty: Medium)
         Ones_and_Zeroes.py
         https://leetcode.com/problems/ones-and-zeroes/
@@ -155,6 +167,10 @@
 532.    K-diff Pairs in an Array (Difficulty: Medium)
         K-diff_Pairs_in_an_Array.py
         https://leetcode.com/problems/k-diff-pairs-in-an-array/
+
+543.    Diameter of Binary Tree
+        Diameter_of_Binary_Tree.py
+        https://leetcode.com/problems/diameter-of-binary-tree/
 
 583.    Delete Operation for Two Strings (Difficulty: Medium)
         Delete_Operation_for_Two_Strings.py
@@ -175,6 +191,10 @@
 727.    Minimum Window Subsequence (Difficulty: Hard)
         Minimum_Window_Subsequence.py
         https://leetcode.com/problems/minimum-window-subsequence/
+
+729.    My Calendar I (Difficulty: Medium)
+        My_Calendar_I.py
+        https://leetcode.com/problems/my-calendar-i/
 
 796.    Rotate String (Difficulty: Easy)
         Rotate_String.java
@@ -220,6 +240,10 @@
         Longest_Common_Subsequence.py
         https://leetcode.com/problems/longest-common-subsequence/
 
+1220.   Count Vowels Permutation (Difficulty: Hard)
+        Count_Vowels_Permutation.py
+        https://leetcode.com/problems/count-vowels-permutation/
+
 1278.   Palindrome Partitioning III (Difficulty: Hard)
         Palindrome_Partitioning_III.py
         https://leetcode.com/problems/palindrome-partitioning-iii/
@@ -231,6 +255,14 @@
 1335.   Minimum Difficulty of a Job Schedule (Difficulty: Hard)
         Minimum_Difficulty_of_a_Job_Schedule.py
         https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
+
+2364.   Count Number of Bad Pairs
+        Count_Number_of_Bad_Pairs.py
+        https://leetcode.com/problems/count-number-of-bad-pairs/
+
+2365.   Task Scheduler II
+        Task_Scheduler_II.py
+        https://leetcode.com/problems/task-scheduler-ii/
 ```
 
 ## AtCoder Beginner Contest 175
