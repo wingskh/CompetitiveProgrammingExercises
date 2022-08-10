@@ -87,6 +87,10 @@
         Interleaving_String.py
         https://leetcode.com/problems/interleaving-string/
 
+108.    Convert Sorted Array to Binary Search Tree (Difficulty: Easy)
+        Convert_Sorted_Array_to_Binary_Search_Tree.py
+        https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
 115.    Distinct Subsequences (Difficulty: Hard)
         Distinct_Subsequences.py
         https://leetcode.com/problems/distinct-subsequences/
@@ -218,6 +222,10 @@
 813.    Largest Sum of Averages (Difficulty: Medium)
         Largest_Sum_of_Averages.py
         https://leetcode.com/problems/largest-sum-of-averages/
+
+823.    Binary Trees With Factors
+        Binary_Trees_With_Factors.py
+        https://leetcode.com/problems/binary-trees-with-factors/
 
 831.    Masking Personal Information (Difficulty: Medium)
         Masking_Personal_Information.py
