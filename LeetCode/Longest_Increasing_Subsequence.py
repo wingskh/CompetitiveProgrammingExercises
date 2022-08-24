@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/longest-increasing-subsequence/
+# https://leetcode.com/problems/longest-increasing-subsequence/discuss/2395913/python-fast-than-95-less-than-83-onlogn
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         total_number = len(nums)

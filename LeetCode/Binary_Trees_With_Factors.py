@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/binary-trees-with-factors/
+# https://leetcode.com/problems/binary-trees-with-factors/discuss/2402569/Python-oror-Detailed-Explanation-oror-Easily-Understood-oror-DP-oror-O(n-*-sqrt(n))
 import math
 
 class Solution:
@@ -7,16 +8,17 @@ class Solution:
         moduler = 1000000007
         count_product_dict = {num: 1 for num in arr}
         arr.sort()
-
+        counter = 0
         for i in range(1, total_nums):
             for j in range(i):
                 quotient = arr[i] // arr[j]
                 if quotient < 2 or math.sqrt(arr[i]) > arr[i- 1]:
                     break
+                counter += 1
                 if arr[i] % arr[j] == 0 and quotient in count_product_dict:
                     count_product_dict[arr[i]] += count_product_dict[arr[j]] * count_product_dict.get(quotient, 0)
                     count_product_dict[arr[i]] %= moduler
-                    
+        print("counter:", counter)
         return sum(count_product_dict.values()) % moduler
 
 
@@ -44,7 +46,8 @@ class Solution:
 # [ ,4,5,10]
 arr = [2,4]
 arr = [18,3,6,2]
-# arr = [45,42,2,18,23,1170,12,41,40,9,47,24,33,28,10,32,29,17,46,11,759,37,6,26,21,49,31,14,19,8,13,7,27,22,3,36,34,38,39,30,43,15,4,16,35,25,20,44,5,48]
+arr = [45,42,2,18,23,1170,12,41,40,9,47,24,33,28,10,32,29,17,46,11,759,37,6,26,21,49,31,14,19,8,13,7,27,22,3,36,34,38,39,30,43,15,4,16,35,25,20,44,5,48]
+print("O():", len(arr)*math.ceil(math.sqrt(len(arr))))
 sol = Solution()
 result = sol.numFactoredBinaryTrees(arr)
 print(result)

@@ -1,9 +1,5 @@
 # https://leetcode.com/problems/my-calendar-i/
-
-import collections
-
-class MyCalendar:
-import collections
+# https://leetcode.com/problems/my-calendar-i/discuss/2372304/Python-oror-Detailed-Explanation-oror-Easy-Understand-oror-No-Libray-oror-Binary-Search
 
 class MyCalendar:
     def __init__(self):

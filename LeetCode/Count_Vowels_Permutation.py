@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/count-vowels-permutation/
+# https://leetcode.com/problems/count-vowels-permutation/discuss/2391936/Python-oror-Detailed-Explanation-oror-Easily-Understood-oror-DP-oror-Simple-oror-MATH
 
 import math
 

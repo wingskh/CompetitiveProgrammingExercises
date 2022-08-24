@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/task-scheduler-ii/
-
+# https://leetcode.com/problems/task-scheduler-ii/discuss/2388526/python-easily-understood-faster-than-98-simple-o0
 import math
 class Solution:
     def taskSchedulerII(self, tasks: List[int], space: int) -> int:

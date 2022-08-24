@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/delete-operation-for-two-strings/
-class Solution:
+# https://leetcode.com/problems/delete-operation-for-two-strings/discuss/1502818/python-3-5-lines-with-top-down-dp-faster-than-8175class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
         word1_length = len(word1)
         word2_length = len(word2)

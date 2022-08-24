@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/mirror-reflection/
-
+# https://leetcode.com/problems/mirror-reflection/discuss/2376489/python-easily-understood-detailed-explanation-easy-understand-math-fast-simple
 class Solution:
     def lcm(self, x, y):
         return x * y // self.gcd(x, y)

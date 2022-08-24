@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/count-number-of-bad-pairs/
+# https://leetcode.com/problems/count-number-of-bad-pairs/discuss/2388687/Python-oror-Detailed-Explanation-oror-Faster-Than-100-oror-Less-than-100-oror-Simple-oror-MATH
 import math
 
 class Solution:

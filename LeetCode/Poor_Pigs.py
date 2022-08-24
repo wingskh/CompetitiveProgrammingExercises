@@ -1,4 +1,5 @@
-# https://leetcode.com/problems/poor-pigs/discuss/?currentPage=1&orderBy=hot&query=
+# https://leetcode.com/problems/poor-pigs/
+# https://leetcode.com/problems/poor-pigs/discuss/2387610/Python-oror-Detailed-Explanation-oror-Faster-Than-98-oror-Easily-Understood-oror-Simple-oror-MATH
 import math
 
 class Solution:

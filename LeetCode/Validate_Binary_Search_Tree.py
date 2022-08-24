@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/validate-binary-search-tree/
+# https://leetcode.com/problems/validate-binary-search-tree/discuss/2409583/python-easily-understood-faster-than-96-recursion
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val

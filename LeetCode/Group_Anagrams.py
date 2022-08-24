@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/group-anagrams/
+# https://leetcode.com/problems/group-anagrams/discuss/2384037/python-easily-understood-hash-table-fast-simple
 class Solution:
     def groupAnagrams(self, strs):
         strs_table = {}
