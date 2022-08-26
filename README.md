@@ -201,6 +201,11 @@
         https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
         https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/2385771/python-detailed-explanation-easy-understand-binarysearch
 
+383.    Ransom Note
+        Ransom_Note.py
+        https://leetcode.com/problems/ransom-note/
+        https://leetcode.com/problems/ransom-note/discuss/2476142/Python-oror-Easily-Understood-oror-Faster-than-96-oror-Fast
+
 387.    First Unique Character in a String
         First_Unique_Character_in_a_String.py
         https://leetcode.com/problems/first-unique-character-in-a-string/
@@ -296,6 +301,11 @@
         Mirror_Reflection.py
         https://leetcode.com/problems/mirror-reflection/
         https://leetcode.com/problems/mirror-reflection/discuss/2376489/python-easily-understood-detailed-explanation-easy-understand-math-fast-simple
+
+869.    Reordered Power of 2
+        Reordered_Power_of_2.py
+        https://leetcode.com/problems/reordered-power-of-2/
+        https://leetcode.com/problems/reordered-power-of-2/discuss/2482894/Python-oror-Easily-Understood-oror-Faster-than-96-oror-Fast
 
 871.    Minimum Number of Refueling Stops (Difficulty: Hard)
         Minimum_Number_of_Refueling_Stops.py
