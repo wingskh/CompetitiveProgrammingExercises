@@ -74,10 +74,15 @@
 33.     Search in Rotated Sorted Array (Difficulty: Medium)
         Search_in_Rotated_Sorted_Array.py
         https://leetcode.com/problems/search-in-rotated-sorted-array/
-        
+
 39.     Combination Sum (Difficulty: Medium)
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
+
+48.     Rotate Image (Difficulty: Medium)
+        Rotate_Image.py
+        https://leetcode.com/problems/rotate-image/
+        https://leetcode.com/problems/rotate-image/discuss/2503184/Python-oror-Easily-Understood-oror-Faster-than-99-oror-Less-than-99
 
 49.     Group Anagrams (Difficulty: Medium)
         Group_Anagrams.py
@@ -92,7 +97,7 @@
         Unique_Paths.py
         https://leetcode.com/problems/unique-paths/
         https://leetcode.com/problems/unique-paths/discuss/2363008/Python-oror-Detailed-Explanation-oror-Easy-Understand-oror-DP-oror-MATH
-        
+
 72.     Edit Distance (Difficulty: Hard)
         Edit_Distance.py
         https://leetcode.com/problems/edit-distance/
@@ -177,14 +182,14 @@
         Coin_Change.py
         https://leetcode.com/problems/coin-change/
 
+326.    Power of Three (Difficulty: Easy)
+        Power_of_Three.py
+        https://leetcode.com/problems/power-of-three/
+
 342.    Power of Four (Difficulty: Easy)
         Power_of_Four.py
         https://leetcode.com/problems/power-of-four/
         https://leetcode.com/problems/power-of-four/discuss/2461447/python-easily-understood-faster-than-92-explanation
-
-326.    Power of Three (Difficulty: Easy)
-        Power_of_Three.py
-        https://leetcode.com/problems/power-of-three/
 
 375.    Guess Number Higher or Lower II (Difficulty: Medium)
         Guess_Number_Higher_or_Lower_II.py
@@ -210,6 +215,11 @@
         First_Unique_Character_in_a_String.py
         https://leetcode.com/problems/first-unique-character-in-a-string/
         https://leetcode.com/problems/first-unique-character-in-a-string/discuss/2431833/python-easily-understood-faster-than-997-5-lines
+
+387.    First Unique Character in a String (Difficulty: Easy)
+        First_Unique_Character_in_a_String.py
+        https://leetcode.com/problems/first-unique-character-in-a-string/
+        https://leetcode.com/problems/first-unique-character-in-a-string/discuss/2431833/Python-oror-Easily-Understood-oror-Faster-than-99.7-oror-5-Lines
 
 410.    Split Array Largest Sum (Difficulty: Hard)
         Split_Array_Largest_Sum.java
@@ -257,7 +267,7 @@
         Split_Array_into_Consecutive_Subsequences.py
         https://leetcode.com/problems/split-array-into-consecutive-subsequences/
         https://leetcode.com/problems/split-array-into-consecutive-subsequences/discuss/2448243/python-easily-understood-faster-than-90-explanation
-        
+
 665.    Non-decreasing Array (Difficulty: Medium)
         Non-decreasing_Array.java
         https://leetcode.com/problems/non-decreasing-array/
@@ -323,7 +333,7 @@
 936.    Stamping The Sequence (Difficulty: Hard)
         Stamping_The_Sequence.py
         https://leetcode.com/problems/stamping-the-sequence/
-        
+
 956.    Tallest Billboard (Difficulty: Hard)
         Tallest_Billboard.py
         https://leetcode.com/problems/tallest-billboard/

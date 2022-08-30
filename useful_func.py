@@ -3,11 +3,14 @@
 # sys.path.append("..")
 # from useful_func import *
 
+
 def display_matrix(matrix):
     import numpy as np
+
     a = np.array(matrix)
     print(a)
-    
+
+
 def display_matrix(matrix, word1, word2):
     if isinstance(word1, list):
         word1 = list(map(str, word1))
@@ -32,21 +35,23 @@ def display_matrix(matrix, word1, word2):
             print(f"\t{matrix[i][j]}", end="")
         print()
 
+
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right
 
+
 def list_to_treenode(elements):
-    root_node = TreeNode(x=elements[0])
+    root_node = TreeNode(val=elements[0])
     nodes = [root_node]
     for i, x in enumerate(elements[1:]):
         if x is None:
             continue
         parent_node = nodes[i // 2]
-        is_left = (i % 2 == 0)
-        node = TreeNode(x=x)
+        is_left = i % 2 == 0
+        node = TreeNode(val=x)
         if is_left:
             parent_node.left = node
         else:
