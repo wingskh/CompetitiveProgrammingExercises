@@ -19,15 +19,42 @@
 ```
 
 ## Facebook Hacker Cup
-
+2020:
 ```
-1.  Facebook Hacker Cup 2020 Round 1 Problem A1: Perimetric - Chapter 1
-    Round1_QuestionA1_2020.py
+1.  Qualification Round Problem B: Alchemy
+    Facebook Hacker Cup\2022\Qualification Round\Question_B.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/B
+
+2.  Round 1 Problem A1: Perimetric - Chapter 1
+    Facebook Hacker Cup\2020\Round 1\Question_A1.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/A1
 
-2.  Facebook Hacker Cup 2020 Round 1 Problem B: Dislodging Logs
+3.  Round 1 Problem B: Dislodging Logs
     Round1_QuestionB_2020.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/B
+```
+
+2022:
+```
+1.  Qualification Round Problem A: Second Hands
+    Facebook Hacker Cup\2022\Qualification Round\Question_A.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/A
+
+2.  Qualification Round Problem B1: Second Friend
+    Facebook Hacker Cup\2022\Qualification Round\Question_B1.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/B1
+
+2.  Qualification Round Problem B2: Second Second Friend
+    Facebook Hacker Cup\2022\Qualification Round\Question_B2.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/B2
+
+2.  Qualification Round Problem C1: Second Meaning
+    Facebook Hacker Cup\2022\Qualification Round\Question_C1.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/C1
+
+2.  Qualification Round Problem C2: Second Second Meaning
+    Facebook Hacker Cup\2022\Qualification Round\Question_C2.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/C2
 ```
 
 ## LeetCode Exercise:
@@ -137,6 +164,11 @@
 188.    Best Time to Buy and Sell Stock IV (Difficulty: Hard)
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+200.    Number of Islands (Difficulty: Medium)
+        Number_of_Islands.py
+        https://leetcode.com/problems/number-of-islands/
+        https://leetcode.com/problems/number-of-islands/discuss/2499215/Python-oror-No-Recursion-oror-Faster-than-82-oror-Less-than-92
 
 217.    Contains Duplicate (Difficulty: Easy)
         Contains_Duplicate.py
@@ -360,6 +392,11 @@
 1328.   Break a Palindrome (Difficulty: Medium)
         Break_a_Palindrome.py
         https://leetcode.com/problems/break-a-palindrome/
+
+1329.   Sort the Matrix Diagonally (Difficulty: Medium)
+        Sort_the_Matrix_Diagonally.py
+        https://leetcode.com/problems/sort-the-matrix-diagonally/
+        https://leetcode.com/problems/sort-the-matrix-diagonally/discuss/2493821/python-easily-understood-faster-than-93-less-than-99
 
 1335.   Minimum Difficulty of a Job Schedule (Difficulty: Hard)
         Minimum_Difficulty_of_a_Job_Schedule.py
