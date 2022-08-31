@@ -59,3 +59,16 @@ def list_to_treenode(elements):
         nodes.append(node)
 
     return root_node
+
+
+def direction(row, col):
+    row_direction = [0, 1, 0, -1]
+    col_direction = [-1, 0, 1, 0]
+
+    for i in range(4):
+        adj_row = row + row_direction[i]
+        adj_col = col + col_direction[i]
+
+    direction = [(1,0),(-1,0),(0,1),(0,-1)]
+    for i in range(4):
+        adj_row, adj_col = direction[i]
