@@ -60,6 +60,10 @@
 ## LeetCode Exercise:
 
 ```
+1.      Two Sum (Difficulty: Easy)
+        Two_Sum.py
+        https://leetcode.com/problems/two-sum/
+
 3.      Longest Substring Without Repeating Characters (Difficulty: Medium)
         Longest_Substring_Without_Repeating_Characters.py
         https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -76,6 +80,11 @@
         ZigZag_Conversion.py
         https://leetcode.com/problems/zigzag-conversion/
 
+13.     Roman to Integer (Difficulty: Easy)
+        Roman_to_Integer.py
+        https://leetcode.com/problems/roman-to-integer/
+        https://leetcode.com/problems/roman-to-integer/discuss/2428756/Python-oror-Easily-Understood-oror-Faster-than-98-oror-Less-than-76-oror-O(n)
+
 15.     3Sum (Difficulty: Medium)
         3Sum.py
         https://leetcode.com/problems/3sum/
@@ -88,11 +97,14 @@
         Letter_Combinations_of_a_Phone_Number.py
         https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
-13.     Roman to Integer
-        Roman_to_Integer.py
-        https://leetcode.com/problems/roman-to-integer/
-        https://leetcode.com/problems/roman-to-integer/discuss/2428756/Python-oror-Easily-Understood-oror-Faster-than-98-oror-Less-than-76-oror-O(n)
+20.     Valid Parentheses (Difficulty: Easy)
+        Valid_Parentheses.py
+        https://leetcode.com/problems/valid-parentheses/
 
+21.     Merge Two Sorted Lists (Difficulty: Easy)
+        Merge_Two_Sorted_Lists.py
+        https://leetcode.com/problems/merge-two-sorted-lists/
+        
 30.     Substring with Concatenation of All Words (Difficulty: Hard)
         Substring_with_Concatenation_of_All_Words.py
         https://leetcode.com/problems/substring-with-concatenation-of-all-words/
@@ -120,6 +132,14 @@
         N-Queens.py
         https://leetcode.com/problems/n-queens/
 
+53.     Maximum Subarray (Difficulty: Medium)
+        Maximum_Subarray.py
+        https://leetcode.com/problems/maximum-subarray/
+
+57.     Insert Interval (Difficulty: Medium)
+        Insert_Interval.py
+        https://leetcode.com/problems/insert-interval/
+
 62.     Unique Paths (Difficulty: Medium)
         Unique_Paths.py
         https://leetcode.com/problems/unique-paths/
@@ -128,6 +148,10 @@
 72.     Edit Distance (Difficulty: Hard)
         Edit_Distance.py
         https://leetcode.com/problems/edit-distance/
+
+79.     Word Search (Difficulty: Medium)
+        Word_Search.py
+        https://leetcode.com/problems/word-search/
 
 97.     Interleaving String (Difficulty: Medium)
         Interleaving_String.py
@@ -149,6 +173,14 @@
 114.    Flatten Binary Tree to Linked List (Difficulty: Medium)
         Flatten_Binary_Tree_to_Linked_List.py
         https://leetcode.com/problems/filling-bookcase-shelves/
+
+121.    Best Time to Buy and Sell Stock (Difficulty: Easy)
+        Best_Time_to_Buy_and_Sell_Stock.py
+        https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+125.    Valid Palindrome (Difficulty: Easy)
+        Valid_Palindrome.py
+        https://leetcode.com/problems/valid-palindrome/
 
 <!-- 126.    Word Ladder II (Difficulty: Hard)
         Word_Ladder_II.py
@@ -179,6 +211,14 @@
         Contains_Duplicate.py
         https://leetcode.com/problems/contains-duplicate/
         https://leetcode.com/problems/contains-duplicate/discuss/2381975/python-easily-understood-dp-faster-than-88-simple
+
+224.    Basic Calculator (Difficulty: Hard)
+        Basic_Calculator.py
+        https://leetcode.com/problems/basic-calculator/
+
+226.    Invert Binary Tree (Difficulty: Easy)
+        Invert_Binary_Tree.py
+        https://leetcode.com/problems/invert-binary-tree/
 
 235.    Lowest Common Ancestor of a Binary Search Tree (Difficulty: Easy)
         Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py
@@ -238,12 +278,12 @@
         https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
         https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/discuss/2385771/python-detailed-explanation-easy-understand-binarysearch
 
-383.    Ransom Note
+383.    Ransom Note (Difficulty: Easy)
         Ransom_Note.py
         https://leetcode.com/problems/ransom-note/
         https://leetcode.com/problems/ransom-note/discuss/2476142/Python-oror-Easily-Understood-oror-Faster-than-96-oror-Fast
 
-387.    First Unique Character in a String
+387.    First Unique Character in a String (Difficulty: Easy)
         First_Unique_Character_in_a_String.py
         https://leetcode.com/problems/first-unique-character-in-a-string/
         https://leetcode.com/problems/first-unique-character-in-a-string/discuss/2431833/python-easily-understood-faster-than-997-5-lines
@@ -286,7 +326,7 @@
         K-diff_Pairs_in_an_Array.py
         https://leetcode.com/problems/k-diff-pairs-in-an-array/
 
-543.    Diameter of Binary Tree
+543.    Diameter of Binary Tree (Difficulty: Easy)
         Diameter_of_Binary_Tree.py
         https://leetcode.com/problems/diameter-of-binary-tree/
 
@@ -308,6 +348,10 @@
         Non-decreasing_Array.java
         https://leetcode.com/problems/non-decreasing-array/
 
+704.    Binary Search (Difficulty: Easy)
+        Binary_Search.py
+        https://leetcode.com/problems/binary-search/
+
 718.    Maximum Length of Repeated Subarray (Difficulty: Medium)
         Maximum_Length_of_Repeated_Subarray.py
         https://leetcode.com/problems/maximum-length-of-repeated-subarray/
@@ -320,6 +364,10 @@
         My_Calendar_I.py
         https://leetcode.com/problems/my-calendar-i/
         https://leetcode.com/problems/my-calendar-i/discuss/2372304/Python-oror-Detailed-Explanation-oror-Easy-Understand-oror-No-Libray-oror-Binary-Search
+
+733.    Flood Fill (Difficulty: Easy)
+        Flood_Fill.py
+        https://leetcode.com/problems/flood-fill/
 
 796.    Rotate String (Difficulty: Easy)
         Rotate_String.java
@@ -334,7 +382,7 @@
         Largest_Sum_of_Averages.py
         https://leetcode.com/problems/largest-sum-of-averages/
 
-823.    Binary Trees With Factors
+823.    Binary Trees With Factors (Difficulty: Medium)
         Binary_Trees_With_Factors.py
         https://leetcode.com/problems/binary-trees-with-factors/
         https://leetcode.com/problems/binary-trees-with-factors/discuss/2402569/Python-oror-Detailed-Explanation-oror-Easily-Understood-oror-DP-oror-O(n-*-sqrt(n))
@@ -343,12 +391,12 @@
         Masking_Personal_Information.py
         https://leetcode.com/problems/masking-personal-information/
 
-858.    Mirror Reflection
+858.    Mirror Reflection (Difficulty: Medium)
         Mirror_Reflection.py
         https://leetcode.com/problems/mirror-reflection/
         https://leetcode.com/problems/mirror-reflection/discuss/2376489/python-easily-understood-detailed-explanation-easy-understand-math-fast-simple
 
-869.    Reordered Power of 2
+869.    Reordered Power of 2 (Difficulty: Medium)
         Reordered_Power_of_2.py
         https://leetcode.com/problems/reordered-power-of-2/
         https://leetcode.com/problems/reordered-power-of-2/discuss/2482894/Python-oror-Easily-Understood-oror-Faster-than-96-oror-Fast
@@ -421,12 +469,16 @@
         https://leetcode.com/problems/reduce-array-size-to-the-half/
         https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/2443799/python-easily-understood-faster-than-90-explanation
 
-2364.   Count Number of Bad Pairs
+1926.   Nearest Exit from Entrance in Maze (Difficulty: Medium)
+        Nearest_Exit_from_Entrance_in_Maze.py
+        https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+
+2364.   Count Number of Bad Pairs (Difficulty: Medium)
         Count_Number_of_Bad_Pairs.py
         https://leetcode.com/problems/count-number-of-bad-pairs/
         https://leetcode.com/problems/count-number-of-bad-pairs/discuss/2388687/Python-oror-Detailed-Explanation-oror-Faster-Than-100-oror-Less-than-100-oror-Simple-oror-MATH
 
-2365.   Task Scheduler II
+2365.   Task Scheduler II (Difficulty: Medium)
         Task_Scheduler_II.py
         https://leetcode.com/problems/task-scheduler-ii/
         https://leetcode.com/problems/task-scheduler-ii/discuss/2388526/python-easily-understood-faster-than-98-simple-o0
