@@ -114,6 +114,10 @@
         Search_in_Rotated_Sorted_Array.py
         https://leetcode.com/problems/search-in-rotated-sorted-array/
 
+36.     Valid Sudoku (Difficulty: Medium)
+        Valid_Sudoku.py
+        https://leetcode.com/problems/valid-sudoku/
+
 39.     Combination Sum (Difficulty: Medium)
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
@@ -162,9 +166,17 @@
         https://leetcode.com/problems/validate-binary-search-tree/
         https://leetcode.com/problems/validate-binary-search-tree/discuss/2409583/python-easily-understood-faster-than-96-recursion
 
+100.    Same Tree (Difficulty: Easy)
+        Same_Tree.py
+        https://leetcode.com/problems/same-tree/
+
 108.    Convert Sorted Array to Binary Search Tree (Difficulty: Easy)
         Convert_Sorted_Array_to_Binary_Search_Tree.py
         https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+110.    Balanced Binary Tree (Difficulty: Easy)
+        Balanced_Binary_Tree.py
+        https://leetcode.com/problems/balanced-binary-tree/
 
 115.    Distinct Subsequences (Difficulty: Hard)
         Distinct_Subsequences.py
@@ -186,6 +198,10 @@
         Word_Ladder_II.py
         https://leetcode.com/problems/word-ladder-ii/ -->
 
+128.    Longest Consecutive Sequence (Difficulty: Medium)
+        Longest_Consecutive_Sequence.py
+        https://leetcode.com/problems/longest-consecutive-sequence/
+
 133.    Clone Graph (Difficulty: Medium)
         Clone_Graph.py
         https://leetcode.com/problems/clone-graph/
@@ -201,6 +217,10 @@
 188.    Best Time to Buy and Sell Stock IV (Difficulty: Hard)
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+199.    Binary Tree Right Side View (Difficulty: Medium)
+        Best_Time_to_Buy_and_Sell_Stock_IV.py
+        https://leetcode.com/problems/binary-tree-right-side-view/
 
 200.    Number of Islands (Difficulty: Medium)
         Number_of_Islands.py
@@ -219,6 +239,10 @@
 226.    Invert Binary Tree (Difficulty: Easy)
         Invert_Binary_Tree.py
         https://leetcode.com/problems/invert-binary-tree/
+         
+230.    Kth Smallest Element in a BST (Difficulty: Medium)
+        Kth_Smallest_Element_in_a_BST.py
+        https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 235.    Lowest Common Ancestor of a Binary Search Tree (Difficulty: Easy)
         Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py
@@ -241,6 +265,10 @@
         Palindrome_Linked_List.java
         https://leetcode.com/problems/palindrome-linked-list/
 
+238.    Product of Array Except Self (Difficulty: Medium)
+        Product_of_Array_Except_Self.py
+        https://leetcode.com/problems/product-of-array-except-self/
+
 300.    Longest Increasing Subsequence (Difficulty: Medium)
         Longest_Increasing_Subsequence.py
         https://leetcode.com/problems/longest-increasing-subsequence/
@@ -262,6 +290,10 @@
         Power_of_Four.py
         https://leetcode.com/problems/power-of-four/
         https://leetcode.com/problems/power-of-four/discuss/2461447/python-easily-understood-faster-than-92-explanation
+
+347.    Top K Frequent Elements (Difficulty: Medium)
+        Top_K_Frequent_Elements.py
+        https://leetcode.com/problems/top-k-frequent-elements/
 
 375.    Guess Number Higher or Lower II (Difficulty: Medium)
         Guess_Number_Higher_or_Lower_II.py
@@ -329,6 +361,10 @@
 543.    Diameter of Binary Tree (Difficulty: Easy)
         Diameter_of_Binary_Tree.py
         https://leetcode.com/problems/diameter-of-binary-tree/
+
+572.    Subtree of Another Tree (Difficulty: Easy)
+        Subtree_of_Another_Tree.py
+        https://leetcode.com/problems/subtree-of-another-tree/
 
 583.    Delete Operation for Two Strings (Difficulty: Medium)
         Delete_Operation_for_Two_Strings.py
