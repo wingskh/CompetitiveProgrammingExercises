@@ -210,6 +210,10 @@
         Sort_List.py
         https://leetcode.com/problems/sort-list/
 
+167.    Two Sum II - Input Array Is Sorted (Difficulty: Medium)
+        Two_Sum_II_-_Input_Array_Is_Sorted.py
+        https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+
 187.    Repeated DNA Sequences (Difficulty: Medium)
         Repeated_DNA_Sequences.py
         https://leetcode.com/problems/repeated-dna-sequences/
