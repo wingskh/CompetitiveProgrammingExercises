@@ -80,6 +80,10 @@
         ZigZag_Conversion.py
         https://leetcode.com/problems/zigzag-conversion/
 
+11.     Container With Most Water (Difficulty: Medium)
+        Container_With_Most_Water.py
+        https://leetcode.com/problems/container-with-most-water/
+
 13.     Roman to Integer (Difficulty: Easy)
         Roman_to_Integer.py
         https://leetcode.com/problems/roman-to-integer/
@@ -121,6 +125,10 @@
 39.     Combination Sum (Difficulty: Medium)
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
+
+42.     Trapping Rain Water (Difficulty: Hard)
+        Trapping_Rain_Water.py
+        https://leetcode.com/problems/trapping-rain-water/
 
 48.     Rotate Image (Difficulty: Medium)
         Rotate_Image.py
