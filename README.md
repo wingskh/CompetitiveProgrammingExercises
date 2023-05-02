@@ -108,7 +108,11 @@
 21.     Merge Two Sorted Lists (Difficulty: Easy)
         Merge_Two_Sorted_Lists.py
         https://leetcode.com/problems/merge-two-sorted-lists/
-        
+
+22.     Generate Parentheses (Difficulty: Medium)
+        Generate_Parentheses.py
+        https://leetcode.com/problems/generate-parentheses/
+
 30.     Substring with Concatenation of All Words (Difficulty: Hard)
         Substring_with_Concatenation_of_All_Words.py
         https://leetcode.com/problems/substring-with-concatenation-of-all-words/
@@ -425,6 +429,10 @@
         Flood_Fill.py
         https://leetcode.com/problems/flood-fill/
 
+739.    Daily Temperatures (Difficulty: Medium)
+        Daily_Temperatures.py
+        https://leetcode.com/problems/daily-temperatures/
+
 796.    Rotate String (Difficulty: Easy)
         Rotate_String.java
         https://leetcode.com/problems/rotate-string/
@@ -446,6 +454,10 @@
 831.    Masking Personal Information (Difficulty: Medium)
         Masking_Personal_Information.py
         https://leetcode.com/problems/masking-personal-information/
+
+853.    Car Fleet (Difficulty: Medium)
+        Car_Fleet.py
+        https://leetcode.com/problems/car-fleet/
 
 858.    Mirror Reflection (Difficulty: Medium)
         Mirror_Reflection.py
