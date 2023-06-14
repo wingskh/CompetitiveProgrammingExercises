@@ -62,3 +62,11 @@ def leftmost_binary_search(nums, target):
             right_index = middle_index - 1
         else:
             left_index = middle_index + 1
+
+# sort a list according to ordering of another list
+def sort_a_list_according_to_ordering_of_another_list(unsorted_list_with_order, unsorted_list_with_output):
+    # position = [10, 8, 0, 5, 3]
+    # name = ['Amy', 'Kay', 'Tom', 'Jeff', 'Calvin']
+    # Output: ['Tom', 'Calvin', 'Jeff', 'Kay', 'Amy']
+    sorted_tuples = sorted(zip(unsorted_list_with_order, unsorted_list_with_output), key=lambda x: x[0])
+    return [x[1] for x in sorted_tuples]
