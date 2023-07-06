@@ -165,6 +165,10 @@
         Edit_Distance.py
         https://leetcode.com/problems/edit-distance/
 
+84.     Largest Rectangle in Histogram (Difficulty: Hard)
+        Largest_Rectangle_in_Histogram.py
+        https://leetcode.com/problems/word-search/
+
 79.     Word Search (Difficulty: Medium)
         Word_Search.py
         https://leetcode.com/problems/word-search/
