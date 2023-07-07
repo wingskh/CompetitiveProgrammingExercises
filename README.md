@@ -165,6 +165,10 @@
         Edit_Distance.py
         https://leetcode.com/problems/edit-distance/
 
+74.     Search a 2D Matrix (Difficulty: Medium)
+        Search_a_2D_Matrix.py
+        https://leetcode.com/problems/search-a-2d-matrix/
+
 84.     Largest Rectangle in Histogram (Difficulty: Hard)
         Largest_Rectangle_in_Histogram.py
         https://leetcode.com/problems/word-search/
