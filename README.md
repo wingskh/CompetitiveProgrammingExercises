@@ -591,3 +591,15 @@
         ReverseLinkedList.py
         https://www.youtube.com/watch?v=vHKzIPwWQkg&t=150s&ab_channel=Cl%C3%A9mentMihailescu
 ```
+
+## Codewars
+
+```
+1.      List Filtering
+        List_Filtering.js
+        https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript
+
+2.      Categorize New Member
+        Categorize_New_Member.js
+        https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
+```
