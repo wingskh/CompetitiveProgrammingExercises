@@ -602,4 +602,12 @@
 2.      Categorize New Member
         Categorize_New_Member.js
         https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
+
+3.      Categorize New Member
+        Categorize_New_Member.js
+        https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
+
+4.      Regex validate PIN code
+        Regex_validate_PIN_code.js
+        https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
 ```
