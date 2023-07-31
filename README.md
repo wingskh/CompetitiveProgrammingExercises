@@ -234,6 +234,10 @@
         Evaluate_Reverse_Polish_Notation.py
         https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
+153.    Find Minimum in Rotated Sorted Array (Difficulty: Medium)
+        Find_Minimum_in_Rotated_Sorted_Array.py
+        https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+        
 155.    Min Stack (Difficulty: Medium)
         Min_Stack.py
         https://leetcode.com/problems/min-stack/
@@ -369,6 +373,10 @@
         Pacific_Atlantic_Water_Flow.py
         https://leetcode.com/problems/pacific-atlantic-water-flow/
 
+424.    Longest Repeating Character Replacement (Difficulty: Medium)
+        Longest_Repeating_Character_Replacement.py
+        https://leetcode.com/problems/longest-repeating-character-replacement/
+
 458.    Poor Pigs (Difficulty: Hard)
         Poor_Pigs.py
         https://leetcode.com/problems/poor-pigs/
@@ -393,6 +401,10 @@
 543.    Diameter of Binary Tree (Difficulty: Easy)
         Diameter_of_Binary_Tree.py
         https://leetcode.com/problems/diameter-of-binary-tree/
+
+567.    Permutation in String (Difficulty: Medium)
+        Permutation_in_String.py
+        https://leetcode.com/problems/permutation-in-string/
 
 572.    Subtree of Another Tree (Difficulty: Easy)
         Subtree_of_Another_Tree.py
@@ -482,6 +494,10 @@
         https://leetcode.com/problems/minimum-number-of-refueling-stops/
         https://leetcode.com/problems/minimum-number-of-refueling-stops/discuss/2452673/python-easily-understood-faster-than-90-fast
 
+875.    Koko Eating Bananas (Difficulty: Medium)
+        Koko_Eating_Bananas.py
+        https://leetcode.com/problems/koko-eating-bananas/
+
 879.    Profitable Schemes (Difficulty: Hard)
         Profitable_Schemes.py
         https://leetcode.com/problems/profitable-schemes/
@@ -501,6 +517,10 @@
 980.    Unique Paths III (Difficulty: Hard)
         Unique_Paths_III.py
         https://leetcode.com/problems/unique-paths-iii/
+
+981.    Time Based Key-Value Store (Difficulty: Medium)
+        Time_Based_Key-Value_Store.py
+        https://leetcode.com/problems/time-based-key-value-store/
 
 1049.   Last Stone Weight II (Difficulty: Medium)
         Last_Stone_Weight_II.py
@@ -599,9 +619,9 @@
         List_Filtering.js
         https://www.codewars.com/kata/53dbd5315a3c69eed20002dd/javascript
 
-2.      Categorize New Member
-        Categorize_New_Member.js
-        https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
+2.      Persistent Bugger
+        Persistent_Bugger.js
+        https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/javascript
 
 3.      Categorize New Member
         Categorize_New_Member.js
@@ -609,5 +629,13 @@
 
 4.      Regex validate PIN code
         Regex_validate_PIN_code.js
-        https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/javascript
+        https://www.codewars.com/kata/55f8a9c06c018a0d6e000132/javascript
+
+5.      Unique In Order
+        Unique_In_Order.js
+        https://www.codewars.com/kata/54e6533c92449cc251001667/javascript
+
+6.      Beginner Series #3 Sum of Numbers
+        Beginner_Series_#3_Sum_of_Numbers.js
+        https://www.codewars.com/kata/55f2b110f61eb01779000053/javascript
 ```
