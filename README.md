@@ -101,6 +101,10 @@
         Letter_Combinations_of_a_Phone_Number.py
         https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
+19.     Remove Nth Node From End of List (Difficulty: Medium)
+        Remove_Nth_Node_From_End_of_List.py
+        https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
 20.     Valid Parentheses (Difficulty: Easy)
         Valid_Parentheses.py
         https://leetcode.com/problems/valid-parentheses/
@@ -169,6 +173,10 @@
         Search_a_2D_Matrix.py
         https://leetcode.com/problems/search-a-2d-matrix/
 
+76.     Minimum Window Substring (Difficulty: Hard)
+        Minimum_Window_Substring.py
+        https://leetcode.com/problems/minimum-window-substring/
+
 84.     Largest Rectangle in Histogram (Difficulty: Hard)
         Largest_Rectangle_in_Histogram.py
         https://leetcode.com/problems/word-search/
@@ -225,6 +233,10 @@
 133.    Clone Graph (Difficulty: Medium)
         Clone_Graph.py
         https://leetcode.com/problems/clone-graph/
+
+143.    Reorder List (Difficulty: Medium)
+        Reorder_List.py
+        https://leetcode.com/problems/reorder-list/
 
 148.    Sort List (Difficulty: Medium)
         Sort_List.py
@@ -288,6 +300,10 @@
 236.    Lowest Common Ancestor of a Binary Tree (Difficulty: Medium)
         Lowest_Common_Ancestor_of_a_Binary_Tree.py
         https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+
+239.    Sliding Window Maximum (Difficulty: Hard)
+        Sliding_Window_Maximum.py
+        https://leetcode.com/problems/sliding-window-maximum/
 
 240.    Search a 2D Matrix II (Difficulty: Medium)
         Search_a_2D_Matrix_II.py
