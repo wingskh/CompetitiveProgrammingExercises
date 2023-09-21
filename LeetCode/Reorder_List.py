@@ -1,15 +1,13 @@
 # https://leetcode.com/problems/reorder-list/
 from typing import Optional
+import sys
+sys.path.append('../')
+from Useful_Function.ListNode import display_listnode
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-
-def display_listnode(node):
-    while node is not None:
-        print(node.val)
-        node = node.next 
 
 class Solution:
     def reorderList(self, head: Optional[ListNode]) -> None:

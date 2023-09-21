@@ -19,7 +19,9 @@
 ```
 
 ## Facebook Hacker Cup
+
 2020:
+
 ```
 1.  Qualification Round Problem B: Alchemy
     Facebook Hacker Cup\2022\Qualification Round\Question_B.py
@@ -35,6 +37,7 @@
 ```
 
 2022:
+
 ```
 1.  Qualification Round Problem A: Second Hands
     Facebook Hacker Cup\2022\Qualification Round\Question_A.py
@@ -63,6 +66,10 @@
 1.      Two Sum (Difficulty: Easy)
         Two_Sum.py
         https://leetcode.com/problems/two-sum/
+
+2.      Add Two Numbers (Difficulty: Medium)
+        Add_Two_Numbers.py
+        https://leetcode.com/problems/add-two-numbers/
 
 3.      Longest Substring Without Repeating Characters (Difficulty: Medium)
         Longest_Substring_Without_Repeating_Characters.py
@@ -116,6 +123,14 @@
 22.     Generate Parentheses (Difficulty: Medium)
         Generate_Parentheses.py
         https://leetcode.com/problems/generate-parentheses/
+
+23.     Merge k Sorted Lists (Difficulty: Hard)
+        Merge_k_Sorted_Lists.py
+        https://leetcode.com/problems/merge-k-sorted-lists/
+
+25.     Reverse Nodes in k-Group (Difficulty: Hard)
+        Reverse_Nodes_in_k-Group.py
+        https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 30.     Substring with Concatenation of All Words (Difficulty: Hard)
         Substring_with_Concatenation_of_All_Words.py
@@ -198,6 +213,18 @@
         Same_Tree.py
         https://leetcode.com/problems/same-tree/
 
+102.    Binary Tree Level Order Traversal (Difficulty: Medium)
+        Binary_Tree_Level_Order_Traversal.py
+        https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+104.    Maximum Depth of Binary Tree (Difficulty: Easy)
+        Maximum_Depth_of_Binary_Tree.py
+        https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+105.    Construct Binary Tree from Preorder and Inorder Traversal (Difficulty: Medium)
+        Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py
+        https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
 108.    Convert Sorted Array to Binary Search Tree (Difficulty: Easy)
         Convert_Sorted_Array_to_Binary_Search_Tree.py
         https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
@@ -234,9 +261,21 @@
         Clone_Graph.py
         https://leetcode.com/problems/clone-graph/
 
+138.    Copy List with Random Pointer (Difficulty: Medium)
+        Copy_List_with_Random_Pointer.py
+        https://leetcode.com/problems/copy-list-with-random-pointer/
+
+141.    Linked List Cycle (Difficulty: Easy)
+        Linked_List_Cycle.py
+        https://leetcode.com/problems/linked-list-cycle/
+
 143.    Reorder List (Difficulty: Medium)
         Reorder_List.py
         https://leetcode.com/problems/reorder-list/
+
+146.    LRU Cache (Difficulty: Medium)
+        LRU_Cache.py
+        https://leetcode.com/problems/lru-cache/
 
 148.    Sort List (Difficulty: Medium)
         Sort_List.py
@@ -249,11 +288,11 @@
 153.    Find Minimum in Rotated Sorted Array (Difficulty: Medium)
         Find_Minimum_in_Rotated_Sorted_Array.py
         https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-        
+
 155.    Min Stack (Difficulty: Medium)
         Min_Stack.py
         https://leetcode.com/problems/min-stack/
-         
+
 167.    Two Sum II - Input Array Is Sorted (Difficulty: Medium)
         Two_Sum_II_-_Input_Array_Is_Sorted.py
         https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
@@ -275,6 +314,10 @@
         https://leetcode.com/problems/number-of-islands/
         https://leetcode.com/problems/number-of-islands/discuss/2499215/Python-oror-No-Recursion-oror-Faster-than-82-oror-Less-than-92
 
+206.    Reverse Linked List (Difficulty: Easy)
+        Reverse_Linked_List.py
+        https://leetcode.com/problems/reverse-linked-list/
+
 217.    Contains Duplicate (Difficulty: Easy)
         Contains_Duplicate.py
         https://leetcode.com/problems/contains-duplicate/
@@ -287,12 +330,12 @@
 226.    Invert Binary Tree (Difficulty: Easy)
         Invert_Binary_Tree.py
         https://leetcode.com/problems/invert-binary-tree/
-         
+
 230.    Kth Smallest Element in a BST (Difficulty: Medium)
         Kth_Smallest_Element_in_a_BST.py
         https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
-235.    Lowest Common Ancestor of a Binary Search Tree (Difficulty: Easy)
+235.    Lowest Common Ancestor of a Binary Search Tree (Difficulty: Medium)
         Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py
         https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
         https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/2414941/Python-oror-Detailed-Explanation-oror-Easily-Understood-oror-O(h)-oror-O(n)
@@ -320,6 +363,10 @@
 238.    Product of Array Except Self (Difficulty: Medium)
         Product_of_Array_Except_Self.py
         https://leetcode.com/problems/product-of-array-except-self/
+
+287.    Find the Duplicate Number (Difficulty: Medium)
+        Find_the_Duplicate_Number.py
+        https://leetcode.com/problems/find-the-duplicate-number/
 
 300.    Longest Increasing Subsequence (Difficulty: Medium)
         Longest_Increasing_Subsequence.py
@@ -580,6 +627,10 @@
         Reduce_Array_Size_to_The_Half.py
         https://leetcode.com/problems/reduce-array-size-to-the-half/
         https://leetcode.com/problems/reduce-array-size-to-the-half/discuss/2443799/python-easily-understood-faster-than-90-explanation
+
+1448.   Count Good Nodes in Binary Tree (Difficulty: Medium)
+        Count_Good_Nodes_in_Binary_Tree.py
+        https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 
 1926.   Nearest Exit from Entrance in Maze (Difficulty: Medium)
         Nearest_Exit_from_Entrance_in_Maze.py

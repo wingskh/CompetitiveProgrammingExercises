@@ -1,4 +1,3 @@
-
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -6,7 +5,7 @@ class ListNode:
         
 def list_to_listnode(array):
     if len(array) == 0:
-        return ListNode()
+        return None
     root = ListNode(val=array[0])
     parent_node = root
     for i in array[1:]:
@@ -15,9 +14,9 @@ def list_to_listnode(array):
         parent_node = cur_node
     return root
     
-def print_listnode(root):
+def display_listnode(root):
     result = []
     while root is not None:
         result.append(root.val)
         root = root.next
-    return result
+    print(result)

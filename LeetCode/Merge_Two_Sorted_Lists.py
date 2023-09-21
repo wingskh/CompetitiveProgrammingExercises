@@ -1,6 +1,9 @@
 # https://leetcode.com/problems/merge-two-sorted-lists/
 # Definition for singly-linked list.
 from typing import Optional
+import sys
+sys.path.append('../')
+from Useful_Function.ListNode import display_listnode, list_to_listnode
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -30,25 +33,6 @@ class Solution:
         
         return root
 
-        
-
-def list_to_listnode(array):
-    if len(array) == 0:
-        return ListNode()
-    root = ListNode(val=array[0])
-    parent_node = root
-    for i in array[1:]:
-        cur_node = ListNode(val=i)
-        parent_node.next = cur_node
-        parent_node = cur_node
-    return root
-
-def print_listnode(root):
-    result = []
-    while root is not None:
-        result.append(root.val)
-        root = root.next
-    return result
 
 list1 = [1,2,4]
 list2 = [1,3,4]
@@ -57,4 +41,4 @@ list1 = list_to_listnode(list1)
 list2 = list_to_listnode(list2)
 sol = Solution()
 result = sol.mergeTwoLists(list1, list2)
-print(print_listnode(result))
+display_listnode(result)
