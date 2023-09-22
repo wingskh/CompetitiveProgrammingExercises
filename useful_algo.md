@@ -8,3 +8,6 @@ Example:
 1. LeetCode/Linked_List_Cycle.py
 1. LeetCode/Find_the_Duplicate_Number.py
 ```
+
+**Dijkstras Shortest Path/BFS**
+Usage: `Find the shortest paths in a graph`

@@ -245,6 +245,10 @@
         Best_Time_to_Buy_and_Sell_Stock.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
+124.    Binary Tree Maximum Path Sum (Difficulty: Hard)
+        Binary_Tree_Maximum_Path_Sum.py
+        https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
 125.    Valid Palindrome (Difficulty: Easy)
         Valid_Palindrome.py
         https://leetcode.com/problems/valid-palindrome/
@@ -318,6 +322,14 @@
         Reverse_Linked_List.py
         https://leetcode.com/problems/reverse-linked-list/
 
+208.    Implement Trie (Prefix Tree) (Difficulty: Medium)
+        Implement_Trie_(Prefix_Tree).py
+        https://leetcode.com/problems/implement-trie-prefix-tree/
+
+211.    Design Add and Search Words Data Structure (Difficulty: Medium)
+        Design_Add_and_Search_Words_Data_Structure.py
+        https://leetcode.com/problems/design-add-and-search-words-data-structure/
+
 217.    Contains Duplicate (Difficulty: Easy)
         Contains_Duplicate.py
         https://leetcode.com/problems/contains-duplicate/
@@ -367,6 +379,10 @@
 287.    Find the Duplicate Number (Difficulty: Medium)
         Find_the_Duplicate_Number.py
         https://leetcode.com/problems/find-the-duplicate-number/
+
+297.    Serialize and Deserialize Binary Tree (Difficulty: Hard)
+        Serialize_and_Deserialize_Binary_Tree.py
+        https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
 300.    Longest Increasing Subsequence (Difficulty: Medium)
         Longest_Increasing_Subsequence.py
