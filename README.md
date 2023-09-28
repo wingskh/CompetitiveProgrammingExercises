@@ -47,17 +47,29 @@
     Facebook Hacker Cup\2022\Qualification Round\Question_B1.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/B1
 
-2.  Qualification Round Problem B2: Second Second Friend
+3.  Qualification Round Problem B2: Second Second Friend
     Facebook Hacker Cup\2022\Qualification Round\Question_B2.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/B2
 
-2.  Qualification Round Problem C1: Second Meaning
+4.  Qualification Round Problem C1: Second Meaning
     Facebook Hacker Cup\2022\Qualification Round\Question_C1.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/C1
 
-2.  Qualification Round Problem C2: Second Second Meaning
+5.  Qualification Round Problem C2: Second Second Meaning
     Facebook Hacker Cup\2022\Qualification Round\Question_C2.py
     https://www.facebook.com/codingcompetitions/hacker-cup/2022/qualification-round/problems/C2
+```
+
+2023:
+
+```
+1.  Practice Round Problem A1: Cheeseburger Corollary 1
+    Facebook Hacker Cup\2023\Practice Round\Question_A1.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2023/practice-round/problems/A1
+
+2.  Practice Round Problem B: Dim Sum Delivery
+    Facebook Hacker Cup\2023\Practice Round\Question_B.py
+    https://www.facebook.com/codingcompetitions/hacker-cup/2023/practice-round/problems/B
 ```
 
 ## LeetCode Exercise:
@@ -335,6 +347,14 @@
         https://leetcode.com/problems/contains-duplicate/
         https://leetcode.com/problems/contains-duplicate/discuss/2381975/python-easily-understood-dp-faster-than-88-simple
 
+212.    Word Search II (Difficulty: Hard)
+        Word_Search_II.py
+        https://leetcode.com/problems/word-search-ii/
+
+215.    Kth Largest Element in an Array (Difficulty: Medium)
+        Kth_Largest_Element_in_an_Array.py
+        https://leetcode.com/problems/kth-largest-element-in-an-array/
+
 224.    Basic Calculator (Difficulty: Hard)
         Basic_Calculator.py
         https://leetcode.com/problems/basic-calculator/
@@ -494,6 +514,11 @@
         https://leetcode.com/problems/delete-operation-for-two-strings/
         https://leetcode.com/problems/delete-operation-for-two-strings/discuss/1502818/python-3-5-lines-with-top-down-dp-faster-than-8175
 
+621.    Task Scheduler (Difficulty: Medium)
+        Task_Scheduler.py
+        https://leetcode.com/problems/task-scheduler/
+
+
 646.    Maximum Length of Pair Chain (Difficulty: Medium)
         Maximum_Length_of_Pair_Chain.py
         https://leetcode.com/problems/maximum-length-of-pair-chain/
@@ -506,6 +531,10 @@
 665.    Non-decreasing Array (Difficulty: Medium)
         Non-decreasing_Array.java
         https://leetcode.com/problems/non-decreasing-array/
+
+703.    Kth Largest Element in a Stream (Difficulty: Easy)
+        Kth_Largest_Element_in_a_Stream.py
+        https://leetcode.com/problems/kth-largest-element-in-a-stream/
 
 704.    Binary Search (Difficulty: Easy)
         Binary_Search.py
@@ -593,6 +622,10 @@
         Tallest_Billboard.py
         https://leetcode.com/problems/tallest-billboard/
 
+973.    K Closest Points to Origin (Difficulty: Medium)
+        K_Closest_Points_to_Origin.py
+        https://leetcode.com/problems/k-closest-points-to-origin/
+
 980.    Unique Paths III (Difficulty: Hard)
         Unique_Paths_III.py
         https://leetcode.com/problems/unique-paths-iii/
@@ -616,6 +649,10 @@
 1143.   Longest Common Subsequence (Difficulty: Medium)
         Longest_Common_Subsequence.py
         https://leetcode.com/problems/longest-common-subsequence/
+
+1046.   Last Stone Weight (Difficulty: Easy)
+        Last_Stone_Weight.py
+        https://leetcode.com/problems/last-stone-weight/
 
 1220.   Count Vowels Permutation (Difficulty: Hard)
         Count_Vowels_Permutation.py
