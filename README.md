@@ -430,6 +430,10 @@
         Top_K_Frequent_Elements.py
         https://leetcode.com/problems/top-k-frequent-elements/
 
+355.    Design Twitter (Difficulty: Medium)
+        Design_Twitter.py
+        https://leetcode.com/problems/design-twitter/
+
 375.    Guess Number Higher or Lower II (Difficulty: Medium)
         Guess_Number_Higher_or_Lower_II.py
         https://leetcode.com/problems/guess-number-higher-or-lower-ii/
