@@ -400,6 +400,10 @@
         Find_the_Duplicate_Number.py
         https://leetcode.com/problems/find-the-duplicate-number/
 
+295.    Find Median from Data Stream (Difficulty: Hard)
+        Find_Median_from_Data_Stream.py
+        https://leetcode.com/problems/find-median-from-data-stream/
+
 297.    Serialize and Deserialize Binary Tree (Difficulty: Hard)
         Serialize_and_Deserialize_Binary_Tree.py
         https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
@@ -657,6 +661,10 @@
 1046.   Last Stone Weight (Difficulty: Easy)
         Last_Stone_Weight.py
         https://leetcode.com/problems/last-stone-weight/
+
+1219.   Path with Maximum Gold (Difficulty: Medium)
+        Path_with_Maximum_Gold.py
+        https://leetcode.com/problems/path-with-maximum-gold/
 
 1220.   Count Vowels Permutation (Difficulty: Hard)
         Count_Vowels_Permutation.py
