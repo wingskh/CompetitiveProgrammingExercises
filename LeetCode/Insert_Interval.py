@@ -35,8 +35,6 @@ class Solution:
         return result + intervals[index:]
 
 
-# [[1,2],[3,10],[12,16]]
-
 intervals = [[1, 3], [6, 9]]
 newInterval = [2, 5]
 # Output: [[1,5],[6,9]]

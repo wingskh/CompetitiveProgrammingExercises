@@ -183,6 +183,10 @@
         Maximum_Subarray.py
         https://leetcode.com/problems/maximum-subarray/
 
+56.     Merge Intervals (Difficulty: Medium)
+        Merge_Intervals.py
+        https://leetcode.com/problems/merge-intervals/description/
+
 57.     Insert Interval (Difficulty: Medium)
         Insert_Interval.py
         https://leetcode.com/problems/insert-interval/
@@ -483,6 +487,10 @@
 424.    Longest Repeating Character Replacement (Difficulty: Medium)
         Longest_Repeating_Character_Replacement.py
         https://leetcode.com/problems/longest-repeating-character-replacement/
+
+435.    Non-overlapping Intervals (Difficulty: Medium)
+        Non-overlapping_Intervals.py
+        https://leetcode.com/problems/non-overlapping-intervals
 
 458.    Poor Pigs (Difficulty: Hard)
         Poor_Pigs.py
