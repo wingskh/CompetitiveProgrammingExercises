@@ -183,6 +183,10 @@
         Maximum_Subarray.py
         https://leetcode.com/problems/maximum-subarray/
 
+55.     Jump Game (Difficulty: Medium)
+        Jump_Game.py
+        https://leetcode.com/problems/jump-game/
+
 56.     Merge Intervals (Difficulty: Medium)
         Merge_Intervals.py
         https://leetcode.com/problems/merge-intervals/description/
@@ -324,6 +328,10 @@
 188.    Best Time to Buy and Sell Stock IV (Difficulty: Hard)
         Best_Time_to_Buy_and_Sell_Stock_IV.py
         https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+198.    House Robber (Difficulty: Medium)
+        House_Robber.py
+        https://leetcode.com/problems/house-robber/
 
 199.    Binary Tree Right Side View (Difficulty: Medium)
         Best_Time_to_Buy_and_Sell_Stock_IV.py
@@ -704,6 +712,10 @@
 1448.   Count Good Nodes in Binary Tree (Difficulty: Medium)
         Count_Good_Nodes_in_Binary_Tree.py
         https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+
+1851.   Minimum Interval to Include Each Query (Difficulty: Hard)
+        Minimum_Interval_to_Include_Each_Query.py
+        https://leetcode.com/problems/minimum-interval-to-include-each-query/
 
 1926.   Nearest Exit from Entrance in Maze (Difficulty: Medium)
         Nearest_Exit_from_Entrance_in_Maze.py
