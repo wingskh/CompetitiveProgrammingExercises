@@ -4,15 +4,15 @@ from typing import List
 
 class Solution:
     def jump(self, nums: List[int]) -> bool:
-        farthest = nums[0]
-        cur_max = 0
+        farthest_jump = nums[0]
+        last_jump_limit = 0
         num_of_jump = 0
 
         for i in range(len(nums) - 1):
-            farthest = max(farthest, i + nums[i])
-            if i == cur_max:
+            farthest_jump = max(farthest_jump, i + nums[i])
+            if i == last_jump_limit:
                 num_of_jump += 1
-                cur_max = farthest
+                last_jump_limit = farthest_jump
 
         return num_of_jump
 
