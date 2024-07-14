@@ -165,6 +165,10 @@
         Trapping_Rain_Water.py
         https://leetcode.com/problems/trapping-rain-water/
 
+45.     Jump Game II (Difficulty: Medium)
+        Jump_Game_II.py
+        https://leetcode.com/problems/jump-game-ii/
+        
 48.     Rotate Image (Difficulty: Medium)
         Rotate_Image.py
         https://leetcode.com/problems/rotate-image/

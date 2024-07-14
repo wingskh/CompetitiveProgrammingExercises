@@ -1,6 +1,5 @@
 # https://leetcode.com/problems/non-overlapping-intervals
 from typing import List
-from collections import defaultdict
 
 
 class Solution:
