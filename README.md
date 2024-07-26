@@ -216,6 +216,10 @@
         Minimum_Window_Substring.py
         https://leetcode.com/problems/minimum-window-substring/
 
+78.     Subsets (Difficulty: Medium)
+        Subsets.py
+        https://leetcode.com/problems/subsets/
+
 84.     Largest Rectangle in Histogram (Difficulty: Hard)
         Largest_Rectangle_in_Histogram.py
         https://leetcode.com/problems/word-search/
