@@ -199,6 +199,10 @@
         Insert_Interval.py
         https://leetcode.com/problems/insert-interval/
 
+39.     Combination Sum (Difficulty: Medium)
+        Combination_Sum.py
+        https://leetcode.com/problems/combination-sum/
+
 62.     Unique Paths (Difficulty: Medium)
         Unique_Paths.py
         https://leetcode.com/problems/unique-paths/
@@ -292,6 +296,10 @@
 133.    Clone Graph (Difficulty: Medium)
         Clone_Graph.py
         https://leetcode.com/problems/clone-graph/
+
+134.    Gas Station (Difficulty: Medium)
+        Gas_Station.py
+        https://leetcode.com/problems/gas-station/
 
 138.    Copy List with Random Pointer (Difficulty: Medium)
         Copy_List_with_Random_Pointer.py
@@ -550,7 +558,6 @@
         Task_Scheduler.py
         https://leetcode.com/problems/task-scheduler/
 
-
 646.    Maximum Length of Pair Chain (Difficulty: Medium)
         Maximum_Length_of_Pair_Chain.py
         https://leetcode.com/problems/maximum-length-of-pair-chain/
@@ -563,6 +570,10 @@
 665.    Non-decreasing Array (Difficulty: Medium)
         Non-decreasing_Array.java
         https://leetcode.com/problems/non-decreasing-array/
+
+678.    Valid Parenthesis String (Difficulty: Medium)
+        Valid_Parenthesis_String.py
+        https://leetcode.com/problems/partition-labels/
 
 703.    Kth Largest Element in a Stream (Difficulty: Easy)
         Kth_Largest_Element_in_a_Stream.py
@@ -593,6 +604,10 @@
         Daily_Temperatures.py
         https://leetcode.com/problems/daily-temperatures/
 
+763.    Partition Labels (Difficulty: Medium)
+        Partition_Labels.py
+        https://leetcode.com/problems/partition-labels/
+
 796.    Rotate String (Difficulty: Easy)
         Rotate_String.java
         https://leetcode.com/problems/rotate-string/
@@ -618,6 +633,10 @@
 853.    Car Fleet (Difficulty: Medium)
         Car_Fleet.py
         https://leetcode.com/problems/car-fleet/
+
+846.    Hand of Straights (Difficulty: Medium)
+        Hand_of_Straights.py
+        https://leetcode.com/problems/hand-of-straights/
 
 858.    Mirror Reflection (Difficulty: Medium)
         Mirror_Reflection.py
@@ -724,6 +743,10 @@
 1851.   Minimum Interval to Include Each Query (Difficulty: Hard)
         Minimum_Interval_to_Include_Each_Query.py
         https://leetcode.com/problems/minimum-interval-to-include-each-query/
+
+1899.   Merge Triplets to Form Target Triplet (Difficulty: Medium)
+        Merge_Triplets_to_Form_Target_Triplet.py
+        https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 
 1926.   Nearest Exit from Entrance in Maze (Difficulty: Medium)
         Nearest_Exit_from_Entrance_in_Maze.py

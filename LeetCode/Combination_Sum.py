@@ -4,7 +4,6 @@ from typing import List
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         def dfs(candidate_index, total_sum, chosen_candidate):
-            nonlocal candidates, target, result
             if total_sum == target:
                 result.append(chosen_candidate)
                 return
@@ -19,6 +18,43 @@ class Solution:
             dfs(candidate_index + 1, total_sum, chosen_candidate)
 
         result = []
-        candidates.sort(reverse=True)
         dfs(0, 0, [])
         return result
+
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        def enlarge_combination(index, remaining, combination, isNext=False):
+            new_remaining = remaining - candidates[index]
+            new_combination = tuple(combination + (candidates[index], ))
+
+            if new_remaining == 0 and new_combination not in seen:
+                seen.add(new_combination)
+                result.append(new_combination)
+                return
+            elif new_remaining < 0:
+                return
+            
+            enlarge_combination(index, new_remaining, new_combination)
+            next_index = index + 1
+            if next_index < candidates_len:
+                enlarge_combination(next_index, remaining, combination)
+
+        result = []
+        candidates_len = len(candidates)
+        seen = set()
+        candidates.sort()
+        for index in range(candidates_len):
+            enlarge_combination(index, target, tuple())
+        return result
+
+
+candidates = [2,3,6,7]
+target = 7
+# Output: [[2,2,3],[7]]
+# candidates = [3,5,8]
+# target = 11
+# [[3,3,5],[3,8]]
+candidates = [8,7,4,3]
+target = 11
+# Output: [[8,3],[7,4],[4,4,3]]
+sol = Solution()
+print(sol.combinationSum(candidates, target))
