@@ -22,13 +22,13 @@ class Solution:
         return result
 
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        def enlarge_combination(index, remaining, combination, isNext=False):
+        def enlarge_combination(index, remaining, combination):
             new_remaining = remaining - candidates[index]
             new_combination = tuple(combination + (candidates[index], ))
 
-            if new_remaining == 0 and new_combination not in seen:
-                seen.add(new_combination)
-                result.append(new_combination)
+            if new_remaining == 0:
+                if new_combination not in result:
+                    result.add(new_combination)
                 return
             elif new_remaining < 0:
                 return
@@ -38,9 +38,8 @@ class Solution:
             if next_index < candidates_len:
                 enlarge_combination(next_index, remaining, combination)
 
-        result = []
         candidates_len = len(candidates)
-        seen = set()
+        result = set()
         candidates.sort()
         for index in range(candidates_len):
             enlarge_combination(index, target, tuple())

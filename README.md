@@ -161,6 +161,10 @@
         Combination_Sum.py
         https://leetcode.com/problems/combination-sum/
 
+40.     Combination Sum II (Difficulty: Medium)
+        Combination_Sum_II.py
+        https://leetcode.com/problems/combination-sum-ii/
+
 42.     Trapping Rain Water (Difficulty: Hard)
         Trapping_Rain_Water.py
         https://leetcode.com/problems/trapping-rain-water/
@@ -168,7 +172,11 @@
 45.     Jump Game II (Difficulty: Medium)
         Jump_Game_II.py
         https://leetcode.com/problems/jump-game-ii/
-        
+
+46.     Permutations (Difficulty: Medium)
+        Permutations.py
+        https://leetcode.com/problems/permutations/
+
 48.     Rotate Image (Difficulty: Medium)
         Rotate_Image.py
         https://leetcode.com/problems/rotate-image/
@@ -231,6 +239,10 @@
 79.     Word Search (Difficulty: Medium)
         Word_Search.py
         https://leetcode.com/problems/word-search/
+
+90.     Subsets II (Difficulty: Medium)
+        Subsets_II.py
+        https://leetcode.com/problems/subsets-ii/
 
 97.     Interleaving String (Difficulty: Medium)
         Interleaving_String.py
