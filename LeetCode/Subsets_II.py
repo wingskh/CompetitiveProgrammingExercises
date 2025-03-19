@@ -15,6 +15,7 @@ class Solution:
 
         candidates_len = len(nums)
         result = set((tuple(),))
+        nums.sort()
         for index in range(candidates_len):
             dfs(index, tuple())
         return result
@@ -24,7 +25,5 @@ nums = [1, 2, 2]
 # Output = [[],[1],[1,2],[1,2,2],[2],[2,2]]
 nums = [4, 4, 4, 1, 4]
 # Output = [[],[1],[1,4],[1,4,4],[1,4,4,4],[1,4,4,4,4],[4],[4,4],[4,4,4],[4,4,4,4]]
-# [[], [1,4], [4,1,4], [4,4,1,4],[4,4,4,1,4],[4], [4,4],[4,4,4],[4,4,4,4]]
-# [,,,[4,4,1],[1],,[4,1],[4,4,4,1]]
 sol = Solution()
-print(sol.subsetsWithDup([1, 2, 2]))
+print(sol.subsetsWithDup(nums))

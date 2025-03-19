@@ -36,7 +36,11 @@ def display_matrix(matrix, word1, word2):
         print()
 
 
+
 def direction(row, col):
+    def is_valid(row, col):
+        return True if row >= 0 and col >= 0 and row < len(row_direction) and col < len(col_direction) else False
+
     row_direction = [0, 1, 0, -1]
     col_direction = [-1, 0, 1, 0]
 

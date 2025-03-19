@@ -1,17 +1,16 @@
 # https://leetcode.com/problems/valid-palindrome/
-import re
-from turtle import left
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s = ''.join(map(lambda x: x if x.isalnum() else '', s)).lower()
-        l = 0
-        r = len(s) - 1
+        s = ''.join(map(lambda x: x.lower() if x.isalnum() else '', s))
+        left_pointer = 0
+        right_pointer = len(s) - 1
         
-        while l < r:
-            if s[l] != s[r]:
+        while left_pointer < right_pointer:
+            if s[left_pointer] != s[right_pointer]:
                 return False
-            l += 1
-            r -= 1
+            left_pointer += 1
+            right_pointer -= 1
         return True
 
 s = "ab_a"
@@ -19,6 +18,3 @@ sol = Solution()
 result = sol.isPalindrome(s)
 print(result)
 
-
-
-list(str.punctuation)
