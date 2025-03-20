@@ -591,6 +591,10 @@
         Valid_Parenthesis_String.py
         https://leetcode.com/problems/partition-labels/
 
+695.    Max Area of Island (Difficulty: Medium)
+        Max_Area_of_Island.py
+        https://leetcode.com/problems/max-area-of-island/
+
 703.    Kth Largest Element in a Stream (Difficulty: Easy)
         Kth_Largest_Element_in_a_Stream.py
         https://leetcode.com/problems/kth-largest-element-in-a-stream/
