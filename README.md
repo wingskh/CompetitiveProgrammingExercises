@@ -599,6 +599,10 @@
         Valid_Parenthesis_String.py
         https://leetcode.com/problems/partition-labels/
 
+684.    Redundant Connection (Difficulty: Medium)
+        Redundant_Connection.py
+        https://leetcode.com/problems/redundant-connection/
+
 695.    Max Area of Island (Difficulty: Medium)
         Max_Area_of_Island.py
         https://leetcode.com/problems/max-area-of-island/
