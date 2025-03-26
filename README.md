@@ -640,6 +640,10 @@
         Daily_Temperatures.py
         https://leetcode.com/problems/daily-temperatures/
 
+743.    Network Delay Time (Difficulty: Medium)
+        Network_Delay_Time.py
+        https://leetcode.com/problems/network-delay-time/
+
 763.    Partition Labels (Difficulty: Medium)
         Partition_Labels.py
         https://leetcode.com/problems/partition-labels/
