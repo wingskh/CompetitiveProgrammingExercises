@@ -12,7 +12,7 @@ class Solution:
         for source, target, weight in times:
             graph[source][target] = weight
 
-        distance_map = defaultdict(lambda: math.inf)
+        distance_map = {i: math.inf for i in range(1, n + 1)}
         distance_map[k] = 0
         pri_queue = []
         heapq.heappush(pri_queue, (0, k))
