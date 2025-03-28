@@ -11,3 +11,8 @@ Example:
 
 **Dijkstras Shortest Path/BFS**
 Usage: `Find the shortest paths in a graph`
+
+**Hierholzer's Algorithm**
+Usage: `Find Eulerian paths or circuits in a directed or undirected graph`
+Euler path: `a path that uses every edge of a graph exactly once`
+Euler circuit: `a circuit that uses every edge of a graph exactly once`

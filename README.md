@@ -477,6 +477,10 @@
         Coin_Change.py
         https://leetcode.com/problems/coin-change/
 
+332.    Reconstruct Itinerary (Difficulty: hard)
+        Reconstruct_Itinerary.py
+        https://leetcode.com/problems/reconstruct-itinerary/
+
 326.    Power of Three (Difficulty: Easy)
         Power_of_Three.py
         https://leetcode.com/problems/power-of-three/
