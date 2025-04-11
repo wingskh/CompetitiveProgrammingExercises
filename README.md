@@ -788,6 +788,10 @@
         Count_Good_Nodes_in_Binary_Tree.py
         https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 
+1584.   Min Cost to Connect All Points (Difficulty: Medium)
+        Min_Cost_to_Connect_All_Points.py
+        https://leetcode.com/problems/min-cost-to-connect-all-points/
+
 1851.   Minimum Interval to Include Each Query (Difficulty: Hard)
         Minimum_Interval_to_Include_Each_Query.py
         https://leetcode.com/problems/minimum-interval-to-include-each-query/

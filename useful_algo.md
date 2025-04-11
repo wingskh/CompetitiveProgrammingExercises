@@ -16,3 +16,13 @@ Usage: `Find the shortest paths in a graph`
 Usage: `Find Eulerian paths or circuits in a directed or undirected graph`
 Euler path: `a path that uses every edge of a graph exactly once`
 Euler circuit: `a circuit that uses every edge of a graph exactly once`
+
+**Kruskal's Algorithm**
+Usage: `find the Minimum Spanning Tree (MST), or Minimum Spanning Forest`
+
+```
+1. Sort all edges by weight
+2. Pick the smallest edge. Check if it forms a cycle with the spanning tree formed so far.
+3. If cycle is not formed, include this edge. Else, discard it.
+4. Repeat step 2 until there are (V-1) edges in the spanning tree.
+```
